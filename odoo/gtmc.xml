@@ -1,0 +1,164 @@
+<t t-name="website.">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section aria-describedby="tooltip943581" class="s_banner o_colored_level s_parallax_no_overflow_hidden pt256 pb48 o_auto_screen_height oe_img_bg o_bg_img_center s_custom_innBanner" data-name="標題標題" data-original-title="" data-scroll-background-ratio="0" data-snippet="s_banner" style="background-image: url(&quot;/web/image/2925-140be5fa/about01.jpg&quot;);" title="" data-mimetype="image/jpeg" data-original-id="2924" data-original-src="/web/image/2924-b0c3e0b8/about01.jpg" data-resize-width="1920" data-custom-name="innBanner">
+        <div class="container">
+          <div aria-describedby="tooltip690493" class="row s_nb_column_fixed" data-original-title="" title="">
+            <div aria-describedby="tooltip835003" class="o_colored_level col-lg-8 pb0 pt256" data-name="Box" data-original-title="" title="">
+              <h5 aria-describedby="tooltip399640" class="mb-0" data-original-title="" title="">
+                <font class="text-o-color-3">關於我們</font>
+              </h5>
+              <h1>
+                <font class="text-o-color-3">GTMC</font>
+              </h1>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pb16 pt16 s_custom_spaceS" data-snippet="s_text_block" style="background-image: none;" data-custom-name="spaceS" data-name="小space">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <div data-snippet="s_breadcrumb" class="s_breadcrumb d-flex justify-content-end" data-tmp="addon_gtmc_website.s_breadcrumb_templates_customized" data-name="Breadcrumb" is-render-title="true" data-breadcrumb-template="custom">
+            <ol class="bm-tpl-holder py-0 px-0 breadcrumb my-2 bg-transparent" data-original-title="" title="" aria-describedby="tooltip103439">
+              <li class="breadcrumb-item o_not_editable" contenteditable="false">
+                <a href="/">首頁</a>
+              </li>
+              <li class="breadcrumb-item custom-item">
+                <a href="/" data-original-title="" title="">關於我們</a>
+                <br/>
+              </li>
+              <li class="breadcrumb-item active current-page"> GTMC</li>
+            </ol>
+          </div>
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_column_layout o_colored_level p-l o_auto_screen_height pb56 pt48" data-name="標題左內文右, P-22" data-snippet="s_column_layout" data-sticky="none" style="background-image: none;">
+        <div class="col-wrapper container">
+          <div class="row d-flex align-items-stretch">
+            <div class="col-lg-5 s_col_no_bgcolor col-left o_visible o_animated o_animating" style="animation-duration: 1.5s !important; animation-play-state: running; visibility: visible;">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_title o_colored_level pt4 pb0" data-name="Title" data-snippet="s_title" data-vcss="001" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <h3>加速品牌力成長的策略夥伴</h3>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-lg-7 col-right o_colored_level o_visible o_animated o_animating" style="animation-duration: 1.5s !important; animation-play-state: running; visibility: visible;">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_text_block o_colored_level pt0 pb24 p-xl" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <p>
+                      GTMC® 我們是專注於外銷企業品牌力經營的顧問公司。我們以策略思考、嶄新創意和國際視野為核心，深入洞察企業競爭優勢，致力於建立品牌的國際曝光與開拓商機。
+                    </p>
+                    <p>我們匯集跨領域專業人才，擁有市場研究、品牌傳播策略、廣告媒體、大數據分析、數位行銷、視覺設計、使用者體驗、程式開發者、雲端運算、網路資安、廣告創意等多個領域的專業知識與經驗，目前已經協助超過30個產業企業夥伴制定品牌力經營策略，並不斷與時俱進，為企業制定最佳的品牌策略和行銷通路組合 ，透過深入的市場研究和分析，了解你的痛點，精確提供市場經營的解決方案，協助企業品牌價值揚名全球，讓世界看見台灣品牌 ，幫助企業發掘潛在的商業機會。
+&amp;nbsp;
+                    <br/></p>
+                  </div>
+                </section>
+                <section class="s_text_block pb0 o_colored_level pt0" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="container s_allow_columns">
+                    <div class="media_iframe_video" data-oe-expression="//fast.wistia.net/embed/iframe/kpo01p1mj2?autoplay=0&amp;muted=true&amp;controlsVisibleOnLoad=false&amp;fitStrategy=cover&amp;playbackRateControl=false&amp;silentAutoPlay=true&amp;videoFoam=true&amp;playbar=false&amp;smallPlayButton=false&amp;qualityControl=false&amp;volumeControl=false&amp;fullscreenButton=false&amp;settingsControl=false">
+                      <div class="css_editable_mode_display">&amp;nbsp;</div>
+                      <div class="media_iframe_video_size">&amp;nbsp;</div>
+                      <iframe allowfullscreen="allowfullscreen" frameborder="0" src="//fast.wistia.net/embed/iframe/kpo01p1mj2?autoplay=0&amp;muted=true&amp;controlsVisibleOnLoad=false&amp;fitStrategy=cover&amp;playbackRateControl=false&amp;silentAutoPlay=true&amp;videoFoam=true&amp;playbar=false&amp;smallPlayButton=false&amp;qualityControl=false&amp;volumeControl=false&amp;fullscreenButton=false&amp;settingsControl=false" data-ruffle-polyfilled=""/>
+                    </div>
+                    <p>
+                      <br/>
+                    </p>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section aria-describedby="tooltip5619" class="s_text_image pt0 o_colored_level custom-tabs custom-tabs-single-img service-area o_cc o_cc2 pb96" data-name="策略行銷-服務領域-單圖片-數字標題" data-original-title="" data-snippet="s_image_text" style="background-image: none;" title="">
+        <div class="container">
+          <div class="content"/>
+          <div aria-describedby="tooltip16457" class="row align-items-start" data-original-title="" title="">
+            <div class="col-lg-6 pt0 pb16  px-sm-0 o_colored_level custom-tabs-left o_visible o_animated o_animating" style="animation-play-state: running; visibility: visible;">
+              <div class="s_text custom-img" data-name="Text" data-snippet="s_text">
+                <img alt="" aria-describedby="tooltip207659" class="img img-fluid" data-mimetype="image/jpeg" data-original-id="3243" data-original-src="/web/image/3243-3ae3e726/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91-%E4%B8%8B%E5%9C%96.jpg" data-original-title="" data-resize-width="1106" loading="lazy" src="/web/image/3244-7498e061/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91-%E4%B8%8B%E5%9C%96.jpg" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);" title=""/>
+              </div>
+            </div>
+            <div aria-describedby="tooltip49441" class="col-lg-5 col-xl-4 o_colored_level custom-tabs-right pt104 o_visible o_animated o_animating pb24" data-original-title="" style="animation-play-state: running; visibility: visible;" title="">
+              <h3>策略為體，數據為用<br/>建立品牌影響力</h3>
+              <div class="s_text mt-2 p-l" data-name="Text" data-snippet="s_text">
+                <p>三大服務為外銷企業在不同的品牌發展階段，極具競爭力的解決方案，為企業賦能。</p>
+                <h5 class="mb-0">
+                  <span style=" font-weight: bolder">01.品牌研究</span>
+                </h5>
+                <p>了解目標市場、品牌定位和品牌聲譽分析，了解品牌在市場上的影響力和認知程度。</p>
+                <h5 class="mb-0">
+                  <span style=" font-weight: bolder">02.品牌行銷</span>
+                </h5>
+                <p>運用數位行銷策略、內容行銷、搜尋引擎行銷，向目標客戶傳遞品牌訊息並提升品牌曝光度增強品牌辨識度和形象。</p>
+                <h5 class="mb-0">
+                  <span style=" font-weight: bolder">03.品牌體驗</span>
+                </h5>
+                <p>著重使用者體驗，確保所有規劃設計實體及數位行銷工具與廣告設計物（如展場設計、網站設計、形象影片、型錄、APP應用程式等），確保在每個與客戶接觸點上，能形塑一致的品牌體驗，累積品牌價值。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level o_cc o_cc4 pt0 pb0 s_custom_ourClient" data-name="Text" data-snippet="s_text_block" style="background-image: none; background-color: rgb(0, 36, 78) !important;" data-custom-name="ourClient">
+        <div class="s_allow_columns container">
+          <div class="s_text pb0" data-name="Text" data-snippet="s_text">
+            <h3>我們的客戶</h3>
+          </div>
+          <p>
+            <img alt="" aria-describedby="tooltip563437" class="img-fluid o_we_custom_image" data-original-title="" loading="lazy" src="/web/image/13248-bf25a953/%E5%AE%A2%E6%88%B6logo3.jpg" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);" title="" data-original-id="13247" data-original-src="/web/image/13247-b67b4410/%E5%AE%A2%E6%88%B6logo3.jpg" data-mimetype="image/jpeg" data-resize-width="1488"/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_spaceS" data-snippet="s_text_block" style="background-image: none;" data-custom-name="spaceS" data-name="小space">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_color_blocks_2 s_custom_mission" data-name="Big Boxes" data-snippet="s_color_blocks_2" data-custom-name="mission">
+        <div class="container-fluid">
+          <div class="row">
+            <div aria-describedby="tooltip726922" class="col-lg-6 o_cc o_cc3 text-center o_colored_level" data-original-title="" style="background-image: none;" title="">
+              <p class="h3" style="text-align: left;">
+                <font class="text-900">讓世界看見台灣…<br/>我們不斷創新，改變經營模式，提升專業技術及服務品質。協助客戶成功擴展國外市場，讓國際客戶目睹台灣企業價值，認識台灣優秀的品牌。</font>
+                <br/>
+                <font class="text-900">我們持續與時俱進，飛輪轉動，提供企業前進力量的最佳後盾。</font>
+              </p>
+            </div>
+            <div aria-describedby="tooltip726922" class="col-lg-6 o_cc o_cc3 text-center o_colored_level oe_img_bg o_bg_img_center pb32 pt24" data-mimetype="image/jpeg" data-original-id="2876" data-original-src="/web/image/2876-0c97d548/about5.jpg" data-original-title="" data-resize-width="1728" style="background-image: url(&quot;/web/image/2935-776553dc/about5.jpg&quot;);" title="">
+              <h3>
+                <br/>
+              </h3>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section aria-describedby="tooltip949220" class="s_title o_colored_level pb88 pt80 footer-contact o_cc o_cc2" data-original-title="" data-snippet="s_title" data-vcss="001" title="" style="background-image: none;" data-name="footer上方聯絡我們區塊">
+        <div aria-describedby="tooltip836135" class="s_allow_columns container" data-original-title="" title="">
+          <h3 style="text-align: center;">
+            <span style="font-weight: normal;" class="o_default_snippet_text">讓我們協助你尋找最適合你公司產業的最佳解決方案</span>
+          </h3>
+          <div class="s_text mt-3" data-name="Text" data-snippet="s_text">
+            <p style="text-align: center;" data-original-title="" title="" aria-describedby="tooltip427574">
+              <a class="btn btn-primary rounded-circle o_default_snippet_text" data-original-title="" href="/contactus" title="">聯絡我們</a>
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>

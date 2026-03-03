@@ -1,0 +1,715 @@
+<t t-name="website.demoindex">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_banner o_colored_level o_background_video s_parallax_no_overflow_hidden pb0 o_full_screen_height pt80 o_cc o_cc4 bg-black s_custom_indexBanner" data-scroll-background-ratio="0" data-snippet="s_banner" data-name="Banner" data-bg-video-src="//fast.wistia.net/embed/iframe/e8fjx0g4u1?autoplay=1&amp;mute=1&amp;playlistLoop=true&amp;videoFoam=true&amp;muted=true&amp;controlsVisibleOnLoad=false&amp;playbackRateControl=false&amp;silentAutoPlay=true&amp;playbar=false&amp;smallPlayButton=false&amp;qualityControl=false&amp;volumeControl=false&amp;fullscreenButton=false&amp;settingsControl=false" data-custom-name="indexBanner" style="background-image: none;">
+        <div class="o_we_bg_filter bg-black-25"/>
+        <div class="container parallax-text">
+          <div class="row s_nb_column_fixed">
+            <div class="col-lg-12 jumbotron rounded o_colored_level pt0 pb0" data-name="Box">
+              <h1 class="o_default_snippet_text">讓世界看見台灣品牌</h1>
+              <p class="lead o_default_snippet_text">#BRANDING ACCELERATOR</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_indexContent1 s_custom_containerRowFull s_custom_google" data-snippet="s_text_block" data-name="Text" style="background-image: none;" data-custom-name="indexContent1 containerRowFull google">
+        <div class="s_allow_columns container-fluid">
+          <div class="row">
+            <div class="o_colored_level col-lg-4 left-img o_animate o_anim_fade_in_down o_visible" style="">
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <img class="img-fluid o_we_custom_image" src="/web/image/7483-69f505e9/2022-01-14_135459.jpg" alt="" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip646054" data-original-id="7483" data-original-src="/web/image/7483-69f505e9/2022-01-14_135459.jpg" data-mimetype="image/jpeg"/>
+              </div>
+            </div>
+            <div class="o_colored_level col-lg-4 main-content o_animate o_anim_fade_in_up o_visible" data-original-title="" title="" aria-describedby="tooltip526525" style="animation-delay: 1s !important;">
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <div class="s_text" data-snippet="s_text" data-name="Text">
+                  <div class="s_text index-title" data-name="more">
+                    <h2 style="text-align: center;">加速品牌力成長的策略夥伴</h2>
+                  </div>
+                  <div class="s_text" data-snippet="s_text" data-name="Text">
+                    <p style="text-align: center;">GTMC®為專注於外銷企業品牌力經營的顧問公司，自創辦以來已匯聚百餘位跨領域專業人才，協助30多個多元產業，逾萬家企業夥伴擘畫全球重點市場品牌力經營策略，以持續與企業共創成長為榮。</p>
+                  </div>
+                  <div class="s_text pt16" data-snippet="s_text" data-name="Text">
+                    <p style="text-align: center;" data-original-title="" title="" aria-describedby="tooltip776446">
+                      <a class="btn btn-primary rounded-circle" href="/GTMC" data-original-title="" title="">了解更多</a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="o_colored_level col-lg-4 right-img o_visible o_animate o_anim_fade_in_up" style="">
+              <div class="s_text pb0 s_custom_google-img-wrapper" data-snippet="s_text" data-name="Text" data-original-title="" title="" aria-describedby="tooltip88780">
+                <img class="img-fluid o_we_custom_image" src="/web/image/7484-c3167f42/2022-01-14_135442.jpg" alt="" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip901087" data-original-id="7484" data-original-src="/web/image/7484-c3167f42/2022-01-14_135442.jpg" data-mimetype="image/jpeg"/>
+                <a href="https://www.google.com/partners/agency?id=3574700819" target="_blank" data-original-title="" title="">
+                  <img src="https://www.gstatic.com/partners/badge/images/2025/PartnerBadgeClickable.svg" loading="lazy" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);" data-original-title="" title="" aria-describedby="tooltip30225" data-is-image-link-open-popup="false" class="ml-auto float-right"/>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" data-name="Text" style="background-image: none;" data-custom-name="space">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section data-snippet="s_vertical_layout" class="s_vertical_layout o_colored_level pt0 pb4 s_custom_indexWhoWeAre" data-name="Vertical Layout" style="background-image: none;" data-custom-name="indexWhoWeAre">
+        <div class="o_container_small">
+          <div data-editor-message="DROP BUILDING BLOCKS HERE" class="oe_structure oe_structure_not_nest oe_empty">
+            <section class="s_text_block o_colored_level o_visible o_animate o_anim_fade_in" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+              <div class="s_allow_columns container">
+                <div class="s_text index-title" data-snippet="s_text" data-name="Text">
+                  <h2 style="text-align: center;">Who We Are</h2>
+                </div>
+              </div>
+            </section>
+            <section class="s_banner o_colored_level o_background_video s_parallax_no_overflow_hidden pb216 pt144 o_cc o_cc4 o_visible o_animate o_anim_fade_in_up o_half_screen_height s_custom_indexAboutVideo" data-scroll-background-ratio="0" data-snippet="s_banner" data-name="Banner" style="background-image: none; background-color: rgb(255, 255, 255) !important;" data-bg-video-src="//fast.wistia.net/embed/iframe/gohn9cefe8?autoplay=1&amp;mute=1&amp;playlistLoop=true&amp;videoFoam=true&amp;muted=true&amp;controlsVisibleOnLoad=false&amp;playbackRateControl=false&amp;silentAutoPlay=true&amp;playbar=false&amp;smallPlayButton=false&amp;qualityControl=false&amp;volumeControl=false&amp;fullscreenButton=false&amp;settingsControl=false" data-custom-name="indexAboutVideo">
+              <div class="o_we_bg_filter" style="background-color: rgba(255, 255, 255, 0.24) !important;"/>
+              <div class="o_container_small">
+                <div class="row s_nb_column_fixed">
+                  <div class="col-lg-12 jumbotron rounded pt0 pb0 o_colored_level" data-name="Box">
+                    <div class="s_text index-video-btn" data-name="more" data-original-title="" title="" aria-describedby="tooltip303844">
+                      <div class="s_text play-icon" data-name="more">
+                        <a href="#" data-original-title="" title="" data-toggle="modal" data-target="#P1705284056477">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="58.116" height="56.169" viewbox="0 0 58.116 56.169">
+                            <path id="play-icon" d="M21.7,7.285a5,5,0,0,1,8.609,0L47.542,36.456A5,5,0,0,1,43.238,44H8.762a5,5,0,0,1-4.3-7.544Z" transform="translate(-5.666 19.941) rotate(-30)" class="play-icon-svg" data-original-title="" title="" aria-describedby="tooltip603514"/>
+                          </svg>
+                        </a>
+                      </div>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 205 205">
+                        <path id="MyPath" d=" M 100, 100  m -75, 0 a 75,75 0 0,1 150,0  a 75,75 0 0,1 -150,0 a 75,75 0 0,1 150,0"/>
+                        <text>
+                          <textpath href="#MyPath" startoffset="100"> ● Play Video
+                            ● Play Video
+                            ● Play Video
+                          </textpath>
+                        </text>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="s_text_block o_colored_level pb0 pt0 o_visible o_animate o_anim_fade_in s_custom_indexVideoText" data-snippet="s_text_block" data-name="Text" style="background-image: none;" data-custom-name="indexVideoText">
+              <div class="s_allow_columns container">
+                <div class="s_text" data-snippet="s_text" data-name="Text">
+                  <p style="text-align: center;">GTMC®以「經營外銷企業品牌力」為核心協助客戶進行產業趨勢、市場競爭者、競爭品牌聲量、線上線下行銷通路等分析後，根據不同市場提出最適化的品牌力經營策略，提供企業在不同的品牌發展階段，最適化的解決方案。</p>
+                </div>
+              </div>
+            </section>
+            <div class="s_click_popup o_snippet_invisible modal_shown" data-vcss="001" data-snippet="s_click_popup" data-name="Click Popup (indexVideo)" id="P1705284056477" style="display: none;" data-invisible="1" aria-hidden="true">
+              <div class="modal s_popup_middle fade modal_shown" data-backdrop="false" tabindex="-1" role="dialog" data-focus="false" style="display: none; background-color: rgba(255, 255, 255, 0.92) !important;" data-click-popup-name="indexVideo" data-original-title="" title="" aria-describedby="tooltip646011" aria-hidden="true">
+                <div class="modal-dialog d-flex modal-lg">
+                  <div class="modal-content oe_structure">
+                    <div class="s_popup_close js_close_popup o_we_no_overlay o_not_editable o_default_snippet_text" aria-label="Close" contenteditable="false">×</div>
+                    <section class="s_banner o_colored_level pt0 pb0 s_custom_pop" data-snippet="s_banner" style="background-image: none;" data-custom-name="pop">
+                      <div class="container">
+                        <div class="row s_nb_column_fixed" data-original-title="" title="" aria-describedby="tooltip975203">
+                          <div class="text-center jumbotron o_colored_level pb0 pt0 col-lg-12">
+                            <h2>
+                              <font style="font-size: 62px;" class="o_default_snippet_text"/>
+                            </h2>
+                            <div class="media_iframe_video" data-oe-expression="//fast.wistia.net/embed/iframe/gohn9cefe8?autoplay=0&amp;videoFoam=true&amp;muted=true&amp;controlsVisibleOnLoad=false&amp;playbackRateControl=false&amp;silentAutoPlay=true&amp;playbar=false&amp;smallPlayButton=false&amp;qualityControl=false&amp;volumeControl=false&amp;fullscreenButton=false&amp;settingsControl=false">
+                              <div class="css_editable_mode_display">&amp;nbsp;</div>
+                              <div class="media_iframe_video_size">&amp;nbsp;</div>
+                              <iframe src="" frameborder="0" allowfullscreen="allowfullscreen" data-ruffle-polyfilled=""/>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <div class="modal-footer justify-content-center d-none">
+                      <a href="#" class="closeBtn btn btn-light flat o_default_snippet_text" data-dismiss="modal">Closed</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <section class="s_text_block o_colored_level pt4 pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+              <div class="s_allow_columns container">
+                <div class="s_text pt16" data-snippet="s_text" data-name="Text">
+                  <p data-original-title="" title="" aria-describedby="tooltip451364" style="text-align: center;">
+                    <a href="/contactus" class="btn btn-primary rounded-circle btn-lg">立即聯絡</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+            <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" style="background-image: none;" data-custom-name="space" data-name="space">
+              <div class="container s_allow_columns">
+                <p>
+                  <br/>
+                </p>
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block pb0 o_colored_level pt0 o_visible o_animate o_anim_fade_in s_custom_indexDepartment" data-snippet="s_text_block" data-name="Text" style="background-image: none;" data-custom-name="indexDepartment">
+        <div class="s_allow_columns container">
+          <div class="s_text d-flex" data-name="more" data-original-title="" title="" aria-describedby="tooltip830102">
+            <div class="s_text item" data-snippet="s_text" data-name="Text">
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <h5>策略行銷</h5>
+              </div>
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <p>
+                  <a href="/strategic-marketing" data-original-title="" title="">產業研調｜策略發展｜數據行銷</a>
+                </p>
+              </div>
+            </div>
+            <div class="s_text item" data-snippet="s_text" data-name="Text">
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <h5>品牌設計</h5>
+              </div>
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <p>
+                  <a href="/brand-development" data-original-title="" title="">品牌規劃｜品牌重塑</a>
+                </p>
+              </div>
+            </div>
+            <div class="s_text item" data-snippet="s_text" data-name="Text">
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <h5>企業網站</h5>
+              </div>
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <p data-original-title="" title="" aria-describedby="tooltip134298">
+                  <a href="/web-design" data-original-title="" title="">設計顧問｜網站設計｜介面設計</a>
+                </p>
+              </div>
+            </div>
+            <div class="s_text item" data-snippet="s_text" data-name="Text">
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <h5>影像創作</h5>
+              </div>
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <p data-original-title="" title="" aria-describedby="tooltip181794">
+                  <a href="/image-creation" data-original-title="" title="">影像企劃｜影像拍攝｜VR虛擬實境</a>
+                </p>
+              </div>
+            </div>
+            <div class="s_text item" data-snippet="s_text" data-name="Text">
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <h5>數位服務</h5>
+              </div>
+              <div class="s_text" data-snippet="s_text" data-name="Text">
+                <p data-original-title="" title="" aria-describedby="tooltip928185">
+                  <a href="/digital-service" data-original-title="" title="">企業自主平台｜雲端行動app｜主機服務</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" style="background-image: none;" data-custom-name="space" data-name="space">
+        <div class="container s_allow_columns">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section data-snippet="s_vertical_layout" class="s_vertical_layout o_colored_level pt0 pb0" data-name="Vertical Layout" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip863502">
+        <div class="container-fluid">
+          <div data-editor-message="DROP BUILDING BLOCKS HERE" class="oe_structure oe_structure_not_nest oe_empty">
+            <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+              <div class="container s_allow_columns">
+                <div class="s_text index-title" data-snippet="s_text" data-name="Text">
+                  <h2 style="text-align: center;" data-original-title="" title="" aria-describedby="tooltip848301">Our Works</h2>
+                </div>
+              </div>
+            </section>
+            <section data-snippet="s_static_snippet" class="s_static_snippet o_colored_level pt0 pb0 s_custom_indexWorkZone s_custom_cusindexWorkZone" data-name="Static Snippet" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip475556" data-custom-name="indexWorkZone cus-indexWorkZone" data-staticsnippet-template="default">
+              <div class="container">
+                <div class="content"/>
+                <div class="static_snippet_template s_product_product_borderless_1">
+                  <div class="row my-4">
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-8 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/tmts-cis-393" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/8906-605d48ad/index-work1.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip182235" data-is-image-link-open-popup="false" data-original-id="8905" data-original-src="/web/image/8905-45fb8c87/index-work1.jpg" data-mimetype="image/jpeg" data-resize-width="983" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>2024 TMTS</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p>台灣國際工具機展</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/vernal-manufacturing-cis-402" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/12451-37753882/index-case3.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip365817" data-original-id="12447" data-original-src="/web/image/12447-9499c09d/index-case3.jpg" data-mimetype="image/jpeg" data-resize-width="477" data-is-image-link-open-popup="false" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>Vernalco</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p>義高工業</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/shinzawa-cis-415" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/8926-15be7cd4/index-work2.jpg" alt="" loading="lazy" data-original-id="8923" data-original-src="/web/image/8923-d6cfc8f6/index-work2.jpg" data-mimetype="image/jpeg" data-resize-width="477" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6 data-original-title="" title="" aria-describedby="tooltip724081">SHINZAWA<br/></h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p>震澤精機</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-8 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip840553">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/top-one-machinery-cis-421" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/12439-983b77a5/index-case1.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip620050" data-original-id="12436" data-original-src="/web/image/12436-d309e745/index-case1.jpg" data-mimetype="image/jpeg" data-resize-width="983" data-is-image-link-open-popup="false" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>Topone</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p data-original-title="" title="" aria-describedby="tooltip751685">旭正</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/hsiao-lin-machine-cis-401" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/8933-70f5f145/index-work5.jpg" alt="" loading="lazy" data-original-id="8929" data-original-src="/web/image/8929-735d09cc/index-work5.jpg" data-mimetype="image/jpeg" data-resize-width="477" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>DYNASTY</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p>小林機械</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip542557">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/hung-ta-cis-400" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/12495-39c6c65c/index-case4.jpg" alt="" loading="lazy" data-is-image-link-open-popup="false" data-original-title="" title="" aria-describedby="tooltip610195" data-original-id="12494" data-original-src="/web/image/12494-e3c68678/index-case4.jpg" data-mimetype="image/jpeg" data-resize-width="477" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>AquaHung</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p>鴻達</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/ukl-enterprise-web-design-283" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/12563-777be5b1/index-case6.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip788648" data-is-image-link-open-popup="false" data-original-id="12542" data-original-src="/web/image/12542-87ab84d1/index-case6.jpg" data-mimetype="image/jpeg" data-resize-width="477" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>PALF</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p>優織隆</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-8 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip840553">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/modernsolid-web-design-61" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/8937-c92edb8b/index-work8.jpg" alt="" loading="lazy" data-original-id="8932" data-original-src="/web/image/8932-f04a1a02/index-work8.jpg" data-mimetype="image/jpeg" data-resize-width="983" data-original-title="" title="" aria-describedby="tooltip184530" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6 data-original-title="" title="" aria-describedby="tooltip987463">Modernsolid</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p data-original-title="" title="" aria-describedby="tooltip751685">青輔</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip774612">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/ld-auto-web-design-248" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/12595-b26f59b6/index-case7.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip788648" data-is-image-link-open-popup="false" data-original-id="12585" data-original-src="/web/image/12585-b5ebce7f/index-case7.jpg" data-mimetype="image/jpeg" data-resize-width="477" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6 data-original-title="" title="" aria-describedby="tooltip719996">Leader</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p data-original-title="" title="" aria-describedby="tooltip248533">勵德</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip867514">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/puricom-web-design-35" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/8949-827378b9/index-work10.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip788648" data-is-image-link-open-popup="false" data-original-id="8942" data-original-src="/web/image/8942-6502295f/index-work10.jpg" data-mimetype="image/jpeg" data-resize-width="477" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>Puricom Water</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p data-original-title="" title="" aria-describedby="tooltip248533">普家康淨水</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-8 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip840553">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/hermin-web-design-304?page=2&amp;category=12" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/13202-749c6293/banner.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip184530" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6 data-original-title="" title="" aria-describedby="tooltip987463">Hermin<br/></h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p data-original-title="" title="" aria-describedby="tooltip751685">和明</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip867514">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/tji-image-video-321" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/12621-71aed426/index-case-8.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip788648" data-is-image-link-open-popup="false" data-original-id="12620" data-original-src="/web/image/12620-bf0d05f2/index-case-8.jpg" data-mimetype="image/jpeg" data-resize-width="477" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>Tyn-Jian</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p data-original-title="" title="" aria-describedby="tooltip248533">鼎堅機械</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip867514">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/victor-taichung-image-video-322" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/12647-97e59c89/index-case8.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip788648" data-is-image-link-open-popup="false" data-original-id="12646" data-original-src="/web/image/12646-6028fd33/index-case8.jpg" data-mimetype="image/jpeg" data-resize-width="477" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>OR Victor Taichung</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p data-original-title="" title="" aria-describedby="tooltip248533">台中精機 </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip867514">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/ora-company-video-323?category=59#attr=" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/12694-13f19290/index-case10.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip788648" data-is-image-link-open-popup="false" data-original-id="12685" data-original-src="/web/image/12685-cc559f36/index-case10.jpg" data-mimetype="image/jpeg" data-resize-width="477" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>ORA Engineering</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p data-original-title="" title="" aria-describedby="tooltip248533">鈦郁</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-8 o_colored_level" data-original-title="" title="" aria-describedby="tooltip78924">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip840553">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/dees-image-video-335" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/8953-f7119e9e/index-work15.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip184530" data-original-id="8947" data-original-src="/web/image/8947-03fc1944/index-work15.jpg" data-mimetype="image/jpeg" data-resize-width="983" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6 data-original-title="" title="" aria-describedby="tooltip987463">DEES</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p data-original-title="" title="" aria-describedby="tooltip751685">迪斯</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="d-flex flex-grow-0 flex-shrink-0 col-md-4 o_colored_level">
+                      <div class="o_carousel_product_card w-100 card-s p-3" data-original-title="" title="" aria-describedby="tooltip867514">
+                        <a class="o_carousel_product_img_link o_dynamic_product_hovered" href="/shop/habor-animation-327" data-original-title="" title="">
+                          <img class="o_carousel_product_card_img_top card-img-top" src="/web/image/12683-e2e09450/index-case-9.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip788648" data-is-image-link-open-popup="false" data-original-id="12682" data-original-src="/web/image/12682-1a92999f/index-case-9.jpg" data-mimetype="image/jpeg" data-resize-width="477" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                        </a>
+                        <div class="o_carousel_product_card_body d-flex flex-wrap flex-column justify-content-between h-100">
+                          <div class="card-title mt-4">
+                            <h6>Habor</h6>
+                          </div>
+                          <div>
+                            <div class="mt-2">
+                              <p data-original-title="" title="" aria-describedby="tooltip248533">哈伯</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+              <div class="s_allow_columns container">
+                <div class="s_text pt16 pb0" data-snippet="s_text" data-name="Text" data-original-title="" title="" aria-describedby="tooltip859669">
+                  <p style="text-align: center;" data-original-title="" title="" aria-describedby="tooltip408271">
+                    <a href="/shop" class="btn btn-primary rounded-circle">瀏覽更多作品</a>
+                  </p>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" style="background-image: none;" data-custom-name="space" data-name="space">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_column_layout o_colored_level o_cc o_cc2 pt80 pb80 o_auto_screen_height" data-snippet="s_column_layout" data-sticky="none" style="background-image: none;" data-name="為什麼選擇gtmv">
+        <div class="col-wrapper container">
+          <div class="row d-flex align-items-stretch">
+            <div class="s_col_no_bgcolor col-left o_animate o_anim_fade_in o_visible col-lg-5" data-original-title="" title="" aria-describedby="tooltip832196" style="">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_title o_colored_level pt0 pb8" data-name="Title" data-snippet="s_title" data-vcss="001" style="background-image: none;">
+                  <div class="container s_allow_columns">
+                    <h2 class="o_default_snippet_text">為何選擇GTMC</h2>
+                    <p class="o_default_snippet_text">
+                      <img class="img-fluid o_we_custom_image" src="/web/image/9162-ae3ebf0b/GTMC-about2.jpg" alt="" data-original-id="9162" data-original-src="/web/image/9162-ae3ebf0b/GTMC-about2.jpg" data-mimetype="image/jpeg" data-original-title="" title="" aria-describedby="tooltip100759" loading="lazy" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                      <br/>
+                    </p>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-lg-7 col-right o_colored_level o_animate o_anim_fade_in o_visible" style="">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_text_block pb0 o_colored_level pt0" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;" class="o_default_snippet_text">台灣外銷產業整合行銷第一品牌</span>
+                      </h5>
+                      <p class="o_default_snippet_text">GTMC 致力於提供外銷產業品牌行銷顧問服務，擁有超過25年的市場產業經驗與技術，服務超過30種以上的各產業經歷，深知你的企業痛點，提供相對的解決方案。</p>
+                    </div>
+                    <div class="s_text mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;" class="o_default_snippet_text">我們的客戶99%均以外銷市場為主</span>
+                      </h5>
+                      <p class="o_default_snippet_text">GTMC 投入各種實體及數位行銷工具，掌握各產業趨勢、市場脈動、世界局勢變化，深入研究競品的營運模式、產業龍頭發展方向，提供台灣製造產業品牌行銷策略方案及數位轉型，讓世界看見台灣品牌的好，台灣人的美。</p>
+                    </div>
+                    <div class="s_text mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;" class="o_default_snippet_text">我們是企業品牌力成長的策略夥伴</span>
+                      </h5>
+                      <p class="o_default_snippet_text">GTMC 以專業分工一條龍服務匯集跨領域專業人才，超過萬家企業擘畫全球重點市場品牌力的經營策略及數位轉型。我們不斷創新，協助企業在不同的品牌發展階段，提供最適合的增長方案。</p>
+                      <p class="o_default_snippet_text">我們的願景：「讓世界看見台灣」，成為企業成長的加速器。</p>
+                    </div>
+                  </div>
+                </section>
+                <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <div class="s_text pt16" data-snippet="s_text" data-name="Text">
+                      <p>
+                        <a class="btn btn-primary rounded-circle o_default_snippet_text" href="/shop" data-original-title="" title="">成功案例</a>
+                      </p>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" style="background-image: none;" data-custom-name="space" data-name="space">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section data-snippet="s_vertical_layout" class="s_vertical_layout o_colored_level pt0 pb0" data-name="Vertical Layout" style="background-image: none;" data-custom-name="">
+        <div class="container-fluid">
+          <div data-editor-message="DROP BUILDING BLOCKS HERE" class="oe_structure oe_structure_not_nest oe_empty">
+            <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+              <div class="container s_allow_columns">
+                <div class="s_text index-title" data-snippet="s_text" data-name="Text">
+                  <h2 style="text-align: center;">Our Clients</h2>
+                  <div class="s_text" data-snippet="s_text" data-name="Text">
+                    <p style="text-align: center;">客戶滿意是永恆的追求，信任與肯定是成長的不竭源泉，有你的支持是我們不斷前進的最佳動力。</p>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="s_text_block o_colored_level pt0  pb0 s_custom_clientsLogo" data-snippet="s_text_block" data-name="Text" style="background-image: none;" data-custom-name="clientsLogo">
+              <div class="s_allow_columns container">
+                <div class="s_text clients-logo-row" data-name="more">
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/7671-8f378f2c/partner_logo_TAITRA.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip619445" data-original-id="7671" data-original-src="/web/image/7671-8f378f2c/partner_logo_TAITRA.jpg" data-mimetype="image/jpeg" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image " src="/web/image/7693-42f2ce73/partner_logo_tmts.jpg" alt="" data-original-id="7672" data-original-src="/web/image/7672-c3f4d3fc/partner_logo_tmts.jpg" data-mimetype="image/jpeg" data-resize-width="200" loading="lazy" data-original-title="" title="" aria-describedby="tooltip358422" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/7694-b4d7f0e8/partner_logo_or.jpg" alt="" data-original-id="7673" data-original-src="/web/image/7673-cf8fa050/partner_logo_or.jpg" data-mimetype="image/jpeg" data-resize-width="200" data-original-title="" title="" aria-describedby="tooltip181757" loading="lazy" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/7695-f342d934/partner_logo_vision.jpg" alt="" data-original-id="7674" data-original-src="/web/image/7674-40b1499c/partner_logo_vision.jpg" data-mimetype="image/jpeg" data-resize-width="148" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/7697-921787ba/partner_logo_tailift.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" data-original-id="7675" data-original-src="/web/image/7675-16527863/partner_logo_tailift.jpg" data-mimetype="image/jpeg" data-resize-width="200" loading="lazy" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/7696-23d323b0/37_partner_logo_AUTOGRIP.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" data-original-id="7676" data-original-src="/web/image/7676-10700663/37_partner_logo_AUTOGRIP.jpg" data-mimetype="image/jpeg" data-resize-width="200" loading="lazy" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/7700-3fb91d4b/partner_logo_TPI.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" data-original-id="7677" data-original-src="/web/image/7677-8cbbe462/partner_logo_TPI.jpg" data-mimetype="image/jpeg" data-resize-width="200" loading="lazy" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/7698-03facf14/partner_logo_fusheng.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" data-original-id="7678" data-original-src="/web/image/7678-bb485a85/partner_logo_fusheng.jpg" data-mimetype="image/jpeg" data-resize-width="200" loading="lazy" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/7699-16b1a88c/partner_logo_yatung.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" data-original-id="7679" data-original-src="/web/image/7679-00631615/partner_logo_yatung.jpg" data-mimetype="image/jpeg" data-resize-width="200" loading="lazy" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13261-9581ba44/%E7%99%BE%E5%BE%B7.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13249" data-original-src="/web/image/13249-f04568c4/%E7%99%BE%E5%BE%B7.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13262-aed2a967/%E6%87%BF%E5%BE%B7.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13250" data-original-src="/web/image/13250-57fb1d61/%E6%87%BF%E5%BE%B7.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13260-9bfa13f7/01.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13251" data-original-src="/web/image/13251-e07f3bd8/01.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13263-0037d787/02.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13252" data-original-src="/web/image/13252-7b46e023/02.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13267-22e90ff0/03.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13253" data-original-src="/web/image/13253-9f49c837/03.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13268-da4daf4f/04.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13254" data-original-src="/web/image/13254-a326d021/04.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13264-b692a4bf/05.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13255" data-original-src="/web/image/13255-c1653d29/05.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13266-2b4e2cb3/06.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13256" data-original-src="/web/image/13256-996063fa/06.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13265-213946a5/07.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13257" data-original-src="/web/image/13257-f36e0cf0/07.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13269-4e64b1cb/08.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13258" data-original-src="/web/image/13258-a2e81204/08.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                  <div class="s_text client-logo" data-snippet="s_text" data-name="Text">
+                    <p>
+                      <img class="img-fluid o_we_custom_image" src="/web/image/13270-443cb29e/09.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip505518" loading="lazy" data-original-id="13259" data-original-src="/web/image/13259-299146a7/09.jpg" data-mimetype="image/jpeg" data-resize-width="200" style="clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0% 100%);"/>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" style="background-image: none;" data-custom-name="space" data-name="space">
+              <div class="container s_allow_columns">
+                <p>
+                  <br/>
+                </p>
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>

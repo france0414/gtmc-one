@@ -1,0 +1,659 @@
+<t t-name="website.">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section aria-describedby="tooltip943581" class="s_banner o_colored_level s_parallax_no_overflow_hidden pb48 pt256 oe_img_bg o_bg_img_center o_auto_screen_height s_custom_innBanner" data-name="Banner" data-original-title="" data-scroll-background-ratio="0" data-snippet="s_banner" style="background-image: url(&quot;/web/image/12774-a67bd541/%E8%A1%8C%E9%8A%B74.jpg&quot;);" title="" data-custom-name="innBanner" data-original-id="12773" data-original-src="/web/image/12773-9ec28e30/%E8%A1%8C%E9%8A%B74.jpg" data-mimetype="image/jpeg" data-resize-width="1920" data-quality="86">
+        <div class="o_we_bg_filter" style="background-color: rgba(0, 0, 0, 0.1) !important;"/>
+        <div class="container">
+          <div aria-describedby="tooltip690493" class="row s_nb_column_fixed" data-original-title="" title="">
+            <div aria-describedby="tooltip835003" class="o_colored_level col-lg-8 pb0 pt256" data-name="Box" data-original-title="" title="">
+              <h5 aria-describedby="tooltip399640" class="mb-0" data-original-title="" title="">
+                <font class="text-o-color-3">服務項目</font>
+              </h5>
+              <h1>
+                <font class="text-o-color-3">策略行銷</font>
+              </h1>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_spaceS" data-snippet="s_text_block" style="background-image: none;" data-custom-name="spaceS" data-name="小space">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pb0 pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="s_allow_columns container">
+          <div data-snippet="s_breadcrumb" class="s_breadcrumb d-flex justify-content-end" data-tmp="addon_gtmc_website.s_breadcrumb_templates_customized" data-name="Breadcrumb" is-render-title="true" data-breadcrumb-template="custom">
+            <ol class="bm-tpl-holder py-0 px-0 breadcrumb my-2 bg-transparent">
+              <li class="breadcrumb-item o_not_editable" contenteditable="false">
+                <a href="/">首頁</a>
+              </li>
+              <li class="breadcrumb-item custom-item">
+                <a href="/service" data-original-title="" title="">服務項目</a>
+                <br/>
+              </li>
+              <li class="breadcrumb-item active current-page"> 策略行銷</li>
+            </ol>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" style="background-image: none;" data-custom-name="space" data-name="space">
+        <div class="s_allow_columns container">
+          <p>&amp;nbsp;<br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_column_layout o_auto_screen_height o_colored_level p-l pb176 pt0" data-name="Column Layout" data-snippet="s_column_layout" data-sticky="none" style="background-image: none;">
+        <div class="col-wrapper container">
+          <div class="row d-flex align-items-stretch">
+            <div class="col-lg-5 s_col_no_bgcolor col-left o_visible o_animated o_animating" style="animation-duration: 1.5s !important; animation-play-state: running; visibility: visible;">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_title o_colored_level pt4 pb0" data-name="Title" data-snippet="s_title" data-vcss="001" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <h3>GTMC策略規劃</h3>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-lg-7 col-right o_colored_level o_visible o_animated o_animating" style="animation-duration: 1.5s !important; animation-play-state: running; visibility: visible;">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_text_block pb0 o_colored_level pt0" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="container s_allow_columns">
+                    <p>GTMC 依據你的產業特性與商業模式，結合多種第三方工具以及Google大數據等多管道數據，挖掘出深具價值的市場開發建議，找到潛在的商業機會。<br/>GTMC 提供全方位品牌溝通策略及曝光通路規劃，快速調整行銷通路策略與組合，持續將曝光效果優化至極致，與你一起共創品牌成長。<br/>&amp;nbsp;<br/></p>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section aria-describedby="tooltip5619" class="s_text_image pt0 o_colored_level custom-tabs custom-tabs-single-img service-area o_cc o_cc2 pb56" data-name="Image - Text" data-original-title="" data-snippet="s_image_text" style="background-image: none;" title="">
+        <div class="container">
+          <div class="content"/>
+          <div aria-describedby="tooltip16457" class="row align-items-start" data-original-title="" title="">
+            <div class="col-lg-6 pt0 pb16 px-0 o_colored_level custom-tabs-left o_visible o_animated o_animating" style="animation-play-state: running; visibility: visible;">
+              <div class="s_text custom-img" data-name="Text" data-snippet="s_text">
+                <img alt="" aria-describedby="tooltip207659" class="img img-fluid" data-original-title="" loading="lazy" src="/web/image/13509-0fd93072/iStock-1154411601.jpg" style="clip-path: polygon(0px 0px, 90% 0px, 90% 100%, 0% 100%);" title="" data-original-id="13508" data-original-src="/web/image/13508-94ba4472/iStock-1154411601.jpg" data-mimetype="image/jpeg" data-resize-width="924"/>
+              </div>
+              <div class="s_text custom-tabs-left-content" data-name="Text" data-snippet="s_text">
+                <div class="s_text active" data-name="Text" data-snippet="s_text">
+                  <div class="custom-desc">
+                    <ul>
+                      <li>市場競爭者探勘</li>
+                      <li>競爭者品牌聲量</li>
+                      <li>產業趨勢分析</li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="s_text" data-name="Text" data-snippet="s_text">
+                  <div class="custom-desc">
+                    <ul>
+                      <li>市場研究</li>
+                      <li>關鍵字研究與選擇</li>
+                      <li>行銷通路效益分析</li>
+                      <li>網站內容建議</li>
+                      <li>使用者體驗求精求變</li>
+                      <li>SEO搜尋引擎優化</li>
+                      <li>數據分析</li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="s_text" data-name="Text" data-snippet="s_text">
+                  <div class="custom-desc">
+                    <ul>
+                      <li>網站體質健康檢查</li>
+                      <li>關鍵字研究與選擇</li>
+                      <li>競爭者戰略分析</li>
+                      <li>網站內容精進</li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="s_text" data-name="Text" data-snippet="s_text">
+                  <div class="custom-desc">
+                    <ul>
+                      <li>精確設置和分組測試</li>
+                      <li>關鍵字研究與選擇</li>
+                      <li>動態再行銷</li>
+                      <li>提升網路(廣告評級)品質分數</li>
+                      <li>洞悉你的競爭對手</li>
+                      <li>目標設定</li>
+                      <li>數據驅動．了解你的潛客</li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="s_text" data-name="Text" data-snippet="s_text">
+                  <div class="custom-desc">
+                    <ul>
+                      <li>選擇影音通路</li>
+                      <li>影片關鍵字的選擇與研究</li>
+                      <li>影音廣告管理</li>
+                      <li>影片/動畫創意製作</li>
+                      <li>廣告活動測試及標示影片時間軸</li>
+                      <li>精準定位&amp;amp;再行銷</li>
+                      <li>定期數據分析和報告</li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="s_text" data-name="Text" data-snippet="s_text">
+                  <div class="custom-desc">
+                    <ul>
+                      <li>訂定你的社群媒體目標</li>
+                      <li>挑選合適的社群經營平台</li>
+                      <li>研究競爭者的社群經營</li>
+                      <li>規劃社群行銷內容</li>
+                      <li>數據分析和客制化報告</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div aria-describedby="tooltip49441" class="col-lg-5 col-xl-4 pb16 o_colored_level custom-tabs-right pt104 o_visible o_animated o_animating" data-original-title="" style="animation-play-state: running; visibility: visible;" title="">
+              <h2>進一步了解<br/>我們的服務領域</h2>
+              <div aria-describedby="tooltip523841" class="s_text mt-4 mt-lg-4 mt-xl-5 custom-tabs-nav-items custom-tabs-number" data-name="Text" data-original-title="" data-snippet="s_text" title="">
+                <div class="s_text custom-tabs-nav active" data-name="Text" data-snippet="s_text">
+                  <h3 aria-describedby="tooltip559649" data-original-title="" title="">
+                    <a data-original-title="" href="#service-detail-1" title="">品牌力經營顧問</a>
+                  </h3>
+                  <div class="custom-btn">
+                    <a data-original-title="" href="#service-detail-1" title="">了解</a>
+                  </div>
+                </div>
+                <div aria-describedby="tooltip903024" class="s_text custom-tabs-nav" data-name="Text" data-original-title="" data-snippet="s_text" title="">
+                  <h3 aria-describedby="tooltip825683" data-original-title="" title="">
+                    <a data-original-title="" href="#service-detail-3" title="">整體網站經營</a>
+                  </h3>
+                  <div class="custom-btn">
+                    <a aria-describedby="popover60473" data-original-title="" href="#service-detail-3" title="">了解</a>
+                  </div>
+                </div>
+                <div aria-describedby="tooltip427993" class="s_text custom-tabs-nav" data-name="Text" data-original-title="" data-snippet="s_text" title="">
+                  <h3 aria-describedby="tooltip825683" data-original-title="" title="">
+                    <a data-original-title="" href="#service-detail-2" title="">SEO 搜尋引擎優化</a>
+                  </h3>
+                  <div class="custom-btn">
+                    <a data-original-title="" href="#service-detail-2" title="">了解</a>
+                  </div>
+                </div>
+                <div class="s_text custom-tabs-nav" data-name="Text" data-snippet="s_text">
+                  <h3 aria-describedby="tooltip825683" data-original-title="" title="">
+                    <a data-original-title="" href="#service-detail-4" title="">SEM 行銷</a>
+                  </h3>
+                  <div class="custom-btn">
+                    <a data-original-title="" href="#service-detail-4" title="">了解</a>
+                  </div>
+                </div>
+                <div class="s_text custom-tabs-nav" data-name="Text" data-snippet="s_text">
+                  <h3 aria-describedby="tooltip825683" data-original-title="" title="">
+                    <a data-original-title="" href="#service-detail-5" title="">影片SEO</a>
+                  </h3>
+                  <div class="custom-btn">
+                    <a data-original-title="" href="#service-detail-5" title="">了解</a>
+                  </div>
+                </div>
+                <div class="s_text custom-tabs-nav" data-name="Text" data-snippet="s_text">
+                  <h3 aria-describedby="tooltip825683" data-original-title="" title="">
+                    <a data-original-title="" href="#service-detail-6" title="">社群媒體行銷</a>
+                  </h3>
+                  <div class="custom-btn">
+                    <a data-original-title="" href="#service-detail-6" title="">了解</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_column_layout o_colored_level service-detail o_auto_screen_height o_cc o_cc3" data-anchor="true" data-name="Column Layout" data-snippet="s_column_layout" data-sticky="used" id="service-detail-1" style="background-image: none;">
+        <div class="col-wrapper container">
+          <div class="row d-flex align-items-stretch">
+            <div class="s_col_no_bgcolor col-left col-lg-6 o_visible o_animate o_anim_fade_in" style="">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty col-sticky" data-editor-message="DROP BUILDING BLOCKS HERE" style="top: 96px;">
+                <section class="s_title o_colored_level pt48 pb0" data-name="Title" data-snippet="s_title" data-vcss="001" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <h3 class="mb-2"><font style="color: rgb(239, 239, 239);">01</font>品牌力經營顧問</h3>
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <p>根據客戶產業特性、各國家使用者的偏好及差異，提出實質有效的全行銷通路組合執行建議，持續不斷堆疊曝光客戶品牌力(知名度) ; 並協助規劃實體及數位行銷工具，確保在每個與潛在客戶互動接觸點上，塑造出一致良好品牌體驗，累積品牌價值。<br/></p>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-right o_colored_level col-lg-6 o_visible o_animate o_anim_fade_in" style="border-color: rgb(199, 199, 199) !important;">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_text_block o_colored_level pt80 pb80" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">市場競爭者探勘</span>
+                      </h5>
+                      <p>當你欲進入陌生市場開拓業務時，GTMC團隊透過多項市場知識大數據庫進行交叉分析，協助找出在當地市場的主力競爭品牌，並研究競爭者市場及產品策略。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">競爭者品牌聲量</span>
+                      </h5>
+                      <p>透過競爭對手品牌聲量分析，幫助你了解競爭者在數位或實體行銷通路上的佈局經營現況，全面性掌握競爭對手在行銷拓展的動態。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">產業趨勢分析</span>
+                      </h5>
+                      <p>透過多項市場研調報告及大數據AI智能分析，協助你洞悉產業概況，找出機會與市場定位; 輔助企業決策，明確企業發展方向。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">數據驅動報告</span>
+                      </h5>
+                      <p/>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_column_layout o_colored_level service-detail o_cc o_cc3 o_auto_screen_height" data-anchor="true" data-name="各服務領域說明" data-snippet="s_column_layout" data-sticky="used" id="service-detail-3" style="background-image: none;">
+        <div class="col-wrapper container">
+          <div class="row d-flex align-items-stretch">
+            <div class="s_col_no_bgcolor col-left col-lg-6 o_animate o_anim_fade_in o_visible" style="">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty col-sticky" data-editor-message="DROP BUILDING BLOCKS HERE" style="top: 96px;">
+                <section class="s_title pt48 pb0 o_colored_level" data-name="Title" data-snippet="s_title" data-vcss="001" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <h3 class="mb-2"><font style="color: rgb(239, 239, 239);">02</font>整體網站經營</h3>
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <p>你的網站客戶來源有老客戶、介紹客戶、展覽、公協會、社群、社團等，來自各方流量。GTMC運用各種數位工具及AI智能分析各行銷通路的客戶價值及效益，作為你行銷預算調整與品牌投資的決策參考，藉以提升客戶的黏著度，進而帶來對的詢問函、對的客戶，終極目標是累積你的品牌價值，提升你的品牌在市場的指名度。<br/></p>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-right o_colored_level col-lg-6 o_animate o_anim_fade_in o_visible" style="border-color: rgb(199, 199, 199) !important;">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_text_block o_colored_level pt80 pb80" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">市場研究</span>
+                      </h5>
+                      <p>當你欲進入陌生或深耕市場時，在地有哪些海外品牌進入當地，及當地有哪些品牌，GTMC團隊詳細研究各品牌在當地的市場策略、行銷通路、品牌聲量、市場占有率，以利提供你精準決策，展開市場經營，共創佳績，累積當地市場品牌價值聲量。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">關鍵字研究與選擇</span>
+                      </h5>
+                      <p>我們擅長精確瞄準關鍵字，並掌握哪些字詞最能引起使用者共鳴，同時在考慮搜尋意圖、流量和難度等因素的平衡下進行優化，從而大幅提高搜尋引擎優化效果。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">行銷通路效益分析</span>
+                      </h5>
+                      <p>GTMC運用各種數位工具及AI智能，分析各通路效益、各品牌聲量、產業趨勢作為你的行銷預算調整與品牌投資的決策參考。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">網站內容建議</span>
+                      </h5>
+                      <p>GTMC團隊仔細檢查所選關鍵詞，並提供相應的網站內容撰寫方向，幫助客戶製作高質量內容，盡而提高網站權重，吸引外部連結，提升搜索引擎對該網站的評價和權重。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">使用者體驗求精求變</span>
+                      </h5>
+                      <p>網站的使用、體驗會隨著市場變化、資訊爆炸、採購者年輕化及競品網站狀態⋯等，均會影響使用者體驗的好感度，影響你行銷通路的成效，也是你的潛在客戶是否願意進一步聯絡最重要的一哩路。GTMC對於使用者體驗每月隨著市場數據變化，競爭者的變化，每季提供建議，改善的方向做為你的決策依據。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">SEO搜尋引擎優化</span>
+                      </h5>
+                      <p>透過網站體質健康檢查、關鍵字研究與選擇、競爭者戰略分析、網站內容，全世界各用法的遵循。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">數據分析</span>
+                      </h5>
+                      <p>涵蓋網站健康狀態檢測、網站數據分析、使用者行為追蹤分析、市場現狀及趨勢分析、競品市場狀態分析、SEO成效分析…等。提供你品牌投資及行銷策略依據，共創佳績，提升指名度。<br/></p>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_column_layout o_colored_level service-detail o_auto_screen_height o_cc o_cc3" data-anchor="true" data-name="各服務領域說明" data-snippet="s_column_layout" data-sticky="used" id="service-detail-2" style="background-image: none;">
+        <div class="col-wrapper container">
+          <div class="row d-flex align-items-stretch">
+            <div class="s_col_no_bgcolor col-left col-lg-6 o_animate o_anim_fade_in o_visible" style="">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty col-sticky" data-editor-message="DROP BUILDING BLOCKS HERE" style="top: 96px;">
+                <section class="s_title pt48 pb0 o_colored_level" data-name="Title" data-snippet="s_title" data-vcss="001" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <h3 class="mb-2"><font style="color: rgb(239, 239, 239);">03</font>SEO 搜尋引擎優化</h3>
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <p>什麼是SEO，依據維基百科定義，搜尋引擎最佳化(Search Engine Optimization,SEO)是一種透過了解搜尋引擎的運作規則，來調整網站，以及提高目的網站在有關搜尋引擎內排名的方式。現搜尋引擎更重視的是搜尋使用者的習慣，我們要如何「透過搜尋引擎的運作及使用者的搜尋習慣(使用者體驗)來調整網站體質,創造更多對的自然流量刺激轉換的過程」。SEO 最關注的是搜尋引擎、網站本身使用者三者的關係, 藉由SEO讓你的網站能夠被使用者找到,獲得商機或品牌價值。<br/></p>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-right o_colored_level col-lg-6 o_animate o_anim_fade_in o_visible" style="border-color: rgb(199, 199, 199) !important;">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_text_block o_colored_level pt80 pb80" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">網站體質健康檢查</span>
+                      </h5>
+                      <p>GTMC團隊為你的品牌網站全面健檢，並提供調整建議報告，讓你逐步調整優化，協助你奠定搜尋引擎優化的必要體質。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">關鍵字研究與選擇</span>
+                      </h5>
+                      <p>我們擅長精確瞄準關鍵字，並掌握哪些字詞最能引起使用者共鳴，同時在考慮搜尋意圖、流量和難度等因素的平衡下進行優化，從而大幅提高搜尋引擎優化效果。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">競爭者戰略分析</span>
+                      </h5>
+                      <p>透過競爭對手分析工具，擬訂客製化的關鍵字佈局策略。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">網站內容精進</span>
+                      </h5>
+                      <p>GTMC團隊縝密研究你的商業模式、市場定位，幫助客戶學會如何產出優質內容找到對的潛在客戶增加網站權重，吸引外部連結，提升搜尋引擎對網站的評價及權重，以帶來數位行銷的效益。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">全世界法規遵循</span>
+                      </h5>
+                      <p>網路在各國均有各種法規，陸續公佈。GTMC隨時關注並為客戶提出解決方案。<br/></p>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_column_layout o_colored_level service-detail o_auto_screen_height o_cc o_cc3" data-anchor="true" data-name="各服務領域說明" data-snippet="s_column_layout" data-sticky="used" id="service-detail-4" style="background-image: none;">
+        <div class="col-wrapper container">
+          <div class="row d-flex align-items-stretch">
+            <div class="s_col_no_bgcolor col-left col-lg-6 o_animate o_anim_fade_in o_visible" style="">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty col-sticky" data-editor-message="DROP BUILDING BLOCKS HERE" style="top: 96px;">
+                <section class="s_title pt48 pb0 o_colored_level" data-name="Title" data-snippet="s_title" data-vcss="001" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <h3 class="mb-2"><font style="color: rgb(239, 239, 239);">04</font>SEM行銷</h3>
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <p>SEM（Search Engine Marketing），中文稱為搜尋引擎行銷，包含SEO及搜尋付費廣告。一般把SEM當成搜尋引擎付費廣告，最常見的就是透過「Google Ads」與「Bing Ads」來購買搜尋結果頁面上的廣告，讓網站有機會取得比自然搜尋結果更好排名的手段。<br/></p>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-right o_colored_level col-lg-6 o_animate o_anim_fade_in o_visible" style="border-color: rgb(199, 199, 199) !important;">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_text_block o_colored_level pt80 pb80" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">目標設定</span>
+                        <br/>
+                      </h5>
+                      <p>SEM的步驟及方法會根據目標而有所不同。別再一味追求曝光、點擊。如國家別、商模對象、品牌價值的目標不同，均需客製不同解決方案。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">關鍵字研究與選擇</span>
+                      </h5>
+                      <p>根據你的產業、產品特性、各國家使用偏好及商業模式，進行使用者搜尋關鍵字的研究，客製規劃屬於你公司獨有的數位行銷策略。</p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">提升網路(廣告評級)品質分數</span>
+                      </h5>
+                      <p>品質分數關係到整個付費廣告的排名、點擊成本。每次使用者搜尋時觸發點擊，你的「品質分數評級」就會重新計算，因素包含：<br/></p>
+                      <ol>
+                        <li>到達網頁使用者體驗。</li>
+                        <li>相關性。</li>
+                        <li>預期點擊率、出價。<br/></li>
+                        <li>額外資訊。</li>
+                      </ol>
+                      <p>以上均是GTMC著手研究的面向，以提升你的廣告品質分數評級。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">精確設置和分組測試</span>
+                        <br/>
+                      </h5>
+                      <p>我們的進階目標設置可幫助你的展示廣告在對的時間，把對的訊息，傳送給對的受眾群體。 同時，我們亦針對廣告文案素材、行動呼籲和標題進行A / B測試，以優化你的廣告活動。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">動態再行銷</span>
+                        <br/>
+                      </h5>
+                      <p>持續搜集你的線上、線下通路名單，堆疊你的品牌記憶點，以漏斗式的行銷模式，找出精準對的客群，持續提升你與客人的黏著度。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">數據驅動．了解你的潛客</span>
+                      </h5>
+                      <p>定期提供數據報告，做為建議及改善，確保行銷預算投入在刀口上，尤其是使用者輪廓（客層、行為、興趣）。對後續行銷預算的決策都有幫助，讓你更了解你的潛在客戶。</p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">洞悉你的競爭對手</span>
+                        <br/>
+                      </h5>
+                      <p>不論是否投放廣告，都要關注你的競爭對手，包含登什麼廣告、促銷活動、文案怎麼寫、到達頁如何設計，才能在強大的競爭市場脫穎而出。『知己知彼，百戰百勝』。</p>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_column_layout o_colored_level service-detail o_auto_screen_height o_cc o_cc3" data-anchor="true" data-name="各服務領域說明" data-snippet="s_column_layout" data-sticky="used" id="service-detail-5" style="background-image: none;">
+        <div class="col-wrapper container">
+          <div class="row d-flex align-items-stretch">
+            <div class="s_col_no_bgcolor col-left col-lg-6 o_animate o_anim_fade_in o_visible" style="">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty col-sticky" data-editor-message="DROP BUILDING BLOCKS HERE" style="top: 96px;">
+                <section class="s_title pt48 pb0 o_colored_level" data-name="Title" data-snippet="s_title" data-vcss="001" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <h3 class="mb-2"><font style="color: rgb(239, 239, 239);">05</font>影片SEO</h3>
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <p>透過優化影片內容及相關資訊，得以提升影片的排序，進而獲得更多流量。YouTube 是僅次於 Google 以外第二大的搜群引擎，所以如何讓你的影片內容符合 YouTube 搜尋引擎機制，增加使用者體驗的好感度，好讓你的影片在 YouTube 的影片流中脫穎而出。影片SEO對你最大的優勢：<br/></p>
+                      <ol>
+                        <li>吸引不同使用者透過影片增加網站流量提供行銷數據。<br/></li>
+                        <li>增加使用者停留在網頁的時間。</li>
+                        <li>影片的分享轉發創造更多的外部連結。</li>
+                      </ol>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-right o_colored_level col-lg-6 o_animate o_anim_fade_in o_visible" style="border-color: rgb(199, 199, 199) !important;">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_text_block o_colored_level pt80 pb80" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">選擇影音通路</span>
+                      </h5>
+                      <p>YouTube、Facebook、Instagram、TikTok、小紅書，隨著影音通路平台的興起，選擇最適合你的產業屬性及有興趣使用者的傳播渠道，有效攻佔對的使用者眼球，提升你的企業品牌力。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">影片關鍵字的選擇與研究</span>
+                      </h5>
+                      <p>影片的基本資料，包含標題、描述、標籤等等，都是影響搜尋結果排序，也讓使用者用關鍵字搜尋影片時，能透過標題、描述及標籤了解該影片主題，以吸引使用者點擊瀏覽。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">影音廣告管理</span>
+                      </h5>
+                      <p>GTMC利用智能工具為你的影片制定有效的投放目標和設定、廣告內容和關鍵字標籤，把影音廣告播放給目標潛在客群，以及提供高畫質影片增加品牌認知度及網站流量。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">影片/動畫創意製作</span>
+                      </h5>
+                      <p>我們創意團隊製作優質內容影音素材，幫助你觸及更多潛在使用者，並提供高畫質影片。 Youtube 研究指出，搜尋結果頁面首頁出現的影片，有超過68%都是高畫質影片。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">廣告活動測試及標示影片時間軸</span>
+                      </h5>
+                      <p>影片若沒有分段或小標題告訴使用者有哪些段及主題，可能因影片過長而離開。故將影片透過時間軸標出重點錨文字（關鍵字佈局），提升影片與關鍵字的關係聯性。再運用影片廣告格式或受眾A/B測試，我們都能以此優化你的影片廣告活動，並提高品牌知名度。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">精準定位&amp;amp;再行銷</span>
+                      </h5>
+                      <p>我們會根據你鎖定的國家地區、產業屬性、使用者的興趣、商業模式等輪廓，將影片內容投放給正確的潛在客戶。同時，客製化的影音再行銷廣告內容，有效吸引使用者回到你的網站，完成轉化目標。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">定期數據分析和報告</span>
+                      </h5>
+                      <p>我們影片SEO持續不斷追踪和優化影片內容，研究YouTube搜尋機制及使用者的體驗，並定期提供數據分析報告。<br/></p>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_column_layout o_colored_level service-detail o_auto_screen_height o_cc o_cc3" data-anchor="true" data-name="各服務領域說明" data-snippet="s_column_layout" data-sticky="used" id="service-detail-6" style="background-image: none;">
+        <div class="col-wrapper container">
+          <div class="row d-flex align-items-stretch">
+            <div class="s_col_no_bgcolor col-left col-lg-6 o_animate o_anim_fade_in o_visible" style="">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty col-sticky" data-editor-message="DROP BUILDING BLOCKS HERE" style="top: 96px;">
+                <section class="s_title pt48 pb0 o_colored_level" data-name="Title" data-snippet="s_title" data-vcss="001" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <h3 class="mb-2"><font style="color: rgb(239, 239, 239);">06</font>社群媒體行銷</h3>
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <p>社群行銷是指品牌或企業透過經營社群媒體與潛在客戶互動，使品牌的曝光度上升，並維持用戶對企業的黏著性與忠誠度，從而促進潛客聯絡的方式。目前常見的社全平台如：Facebook、Instagram、Twitter、Youtube、Line、Tiktok等，都是網路社群行銷的主流執行目標。社群媒體優勢：<br/></p>
+                      <ol>
+                        <li>提高品牌知名度。</li>
+                        <li>提高客戶的好感度。</li>
+                        <li>增加客戶的忠誠度。</li>
+                        <li>引導流量至企業官網提升轉化率。</li>
+                      </ol>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-right o_colored_level col-lg-6 no-bt-line o_animate o_anim_fade_in o_visible" style="border-color: rgb(199, 199, 199) !important;">
+              <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty" data-editor-message="DROP BUILDING BLOCKS HERE">
+                <section class="s_text_block o_colored_level pt80 pb80" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <div class="s_text" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">訂定你的社群媒體目標</span>
+                      </h5>
+                      <p>不論你的目標是提升品牌知名度、尋找潛在客戶、增加網站流量或提升銷售額，我們致力於提供全面的解決方案。進行全面的社群媒體檢測，並制定出有效的社群媒體計劃。我們深入規劃目標客戶定位，精準地找出潛在消費者並將他們轉化為忠實客戶。我們的策略將幫助你更好地了解你的目標客戶，並針對他們的需求和喜好提供適切的解決方案。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">挑選合適的社群經營平台</span>
+                      </h5>
+                      <p>我們依據你的產業特性，使用者當地使用社群的偏好，依商業模式找到適合你的企業推廣的社群，再進行操作的方式。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">研究競爭者的社群經營</span>
+                      </h5>
+                      <p>如內容類型、企劃呈現方式、追踪粉絲的屬性、數量、標籤與CTA，與粉絲互動或回饋形式，作為你的建議及改善策略。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">規劃社群行銷內容</span>
+                      </h5>
+                      <p>如：產品與技術研發介紹、公司的經營理念、核心價值、節慶或展覽貼文、熱門議題討論。<br/></p>
+                    </div>
+                    <div class="s_text pt0 mt-4" data-name="Text" data-snippet="s_text">
+                      <h5 class="mb-1">
+                        <span style="font-weight: bolder;">數據分析和客制化報告</span>
+                      </h5>
+                      <p>透過第一方與第三方所生成的大數據分析，及定時觀察數據變化，並分析互動率、觸及率、追蹤數量等指標，適時進行修改與調整，以達到設定的目標。<br/></p>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title o_colored_level pb0 service-process-title pt80" data-name="Title" data-snippet="s_title" data-vcss="001" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h2>服務流程</h2>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt16 pb80 process service-process o_cc o_cc1" data-name="服務流程" data-snippet="s_text_block" style="background-image: none;">
+        <div class="s_allow_columns container">
+          <div class="row">
+            <div class="o_colored_level col-sm-6 col-md-6 col-lg-3 o_animate o_anim_fade_in o_visible" style="">
+              <div class="s_text" data-name="Text" data-snippet="s_text">
+                <p class="mb-0">
+                  <small class="o_default_snippet_text">
+                    Step1
+                  </small>
+                </p>
+                <h4 class="mt-2 o_default_snippet_text">需求討論</h4>
+                <p class="o_default_snippet_text">需求溝通，建立執行目標共識。</p>
+              </div>
+            </div>
+            <div class="o_colored_level col-sm-6 col-md-6 col-lg-3 o_animate o_anim_fade_in o_visible" style="animation-delay: 0.5s !important;">
+              <div class="s_text" data-name="Text" data-snippet="s_text">
+                <p class="mb-0">
+                  <small class="o_default_snippet_text">Step2</small>
+                </p>
+                <h4 class="mt-2 o_default_snippet_text">規劃提案</h4>
+                <p class="o_default_snippet_text">執行前討論企劃、制定最合適的計劃。</p>
+              </div>
+            </div>
+            <div class="o_colored_level col-sm-6 col-md-6 col-lg-3 o_animate o_anim_fade_in o_visible" style="animation-delay: 1s !important;">
+              <div class="s_text" data-name="Text" data-snippet="s_text">
+                <p class="mb-0">
+                  <small class="o_default_snippet_text">Step3</small>
+                </p>
+                <h4 class="mt-2 o_default_snippet_text">執行監控</h4>
+                <p class="o_default_snippet_text">投入執行，定期監控。</p>
+              </div>
+            </div>
+            <div class="o_colored_level col-sm-6 col-md-6 col-lg-3 o_animate o_anim_fade_in o_visible" style="animation-delay: 1.5s !important;">
+              <div class="s_text" data-name="Text" data-snippet="s_text">
+                <p class="mb-0">
+                  <small class="o_default_snippet_text">Step4</small>
+                </p>
+                <h4 class="mt-2 o_default_snippet_text">循環優化</h4>
+                <p class="o_default_snippet_text">數據分析、改善建議、調整優化。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section aria-describedby="tooltip949220" class="s_title o_colored_level pb88 pt80 footer-contact o_cc o_cc2" data-name="Title" data-original-title="" data-snippet="s_title" data-vcss="001" title="" style="background-image: none;">
+        <div aria-describedby="tooltip836135" class="s_allow_columns container" data-original-title="" title="">
+          <h3 style="text-align: center;">
+            <span style="font-weight: normal;">讓我們協助你尋找最適合你公司產業的最佳解決方案</span>
+          </h3>
+          <div class="s_text mt-3" data-name="Text" data-snippet="s_text">
+            <p style="text-align: center;" data-original-title="" title="" aria-describedby="tooltip316126">
+              <a class="btn btn-primary rounded-circle" data-original-title="" href="/contactus" title="">聯絡我們</a>
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>

@@ -1,0 +1,645 @@
+<t t-name="website.subsidy_program">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_banner o_colored_level s_parallax_no_overflow_hidden pt256 pb48 o_auto_screen_height oe_img_bg o_bg_img_center s_custom_innBanner" data-name="補助計畫 Banner" data-snippet="s_banner" data-custom-name="innBanner" style="background-image: url(&quot;/web/image/subsidy-banner.jpg&quot;);">
+        <div class="o_we_bg_filter" style="background-color: rgba(0, 0, 0, 0.1) !important;"/>
+        <div class="container">
+          <div class="row s_nb_column_fixed">
+            <div class="col-lg-8 pb0 pt256 o_colored_level">
+              <h5 class="mb-0">
+                <font class="text-o-color-3">服務項目</font>
+              </h5>
+              <h1>
+                <font class="text-o-color-3">政府補助計畫輔導</font>
+              </h1>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pb16 pt16 s_custom_spaceS" data-snippet="s_text_block" data-custom-name="spaceS" data-name="服務流程">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" data-name="服務流程">
+        <div class="container s_allow_columns">
+          <div data-snippet="s_breadcrumb" class="s_breadcrumb d-flex justify-content-end" data-name="Breadcrumb">
+            <ol class="bm-tpl-holder py-0 px-0 breadcrumb my-2 bg-transparent">
+              <li class="breadcrumb-item o_not_editable">
+                <a href="/">首頁</a>
+              </li>
+              <li class="breadcrumb-item custom-item">
+                <a href="/">服務項目</a>
+              </li>
+              <li class="breadcrumb-item active current-page">政府補助計畫輔導</li>
+            </ol>
+          </div>
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" data-custom-name="space" style="background-image: none;">
+        <div class="s_allow_columns container">
+          <p>&amp;nbsp;<br/></p>
+        </div>
+      </section>
+      <section class="s_column_layout o_colored_level p-l pb176 pt0" data-name="Column Layout" data-snippet="s_column_layout" style="background-image: none;">
+        <div class="col-wrapper container">
+          <div class="row d-flex align-items-stretch">
+            <div class="col-lg-5 col-left">
+              <div class="s_column_layout_content">
+                <section class="s_title o_colored_level pt4 pb0" data-name="Title" data-snippet="s_title" style="background-image: none;">
+                  <div class="s_allow_columns container">
+                    <h3>GTMC 補助計畫輔導</h3>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-lg-7 col-right o_colored_level">
+              <div class="s_column_layout_content">
+                <section class="s_text_block pb0 o_colored_level pt0" data-name="Text" data-snippet="s_text_block" style="background-image: none;">
+                  <div class="container s_allow_columns">
+                    <p>久大行銷具備豐富補助計畫輔導經驗，協助企業精準對接政府資源。我們透過深度訪談與數據分析，與您一同佈局企業未來成長。<br/>從市場開發、數位轉型到企業傳承，GTMC 提供全方位補助計畫諮詢服務，快速調整策略組合，持續將資源效益優化至極致。<br/>&amp;nbsp;<br/></p>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt80 pb80 s_custom_painPoints" data-snippet="s_text_block" data-name="服務流程">
+        <div class="container">
+          <div class="s_title text-center pb48" data-snippet="s_title" data-name="footer-contact">
+            <h2>當傳統模式面臨瓶頸，補助計畫是您的核心推力</h2>
+            <div class="mx-auto mt-3 s_custom_subsidyDivider"/>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border shadow-sm">
+                <div class="card-body p-5">
+                  <div class="mb-4 pain-icon">
+                    <i class="fa fa-refresh"/>
+                  </div>
+                  <h4 class="card-title mb-3">獲利面臨轉型瓶頸</h4>
+                  <p class="card-text text-muted">受國際市場快速變遷影響，出口成長停滯，急需政府專案補助以啟動數位化與技術升級。</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border shadow-sm">
+                <div class="card-body p-5">
+                  <div class="mb-4 pain-icon">
+                    <i class="fa fa-globe"/>
+                  </div>
+                  <h4 class="card-title mb-3">開拓預算力不足</h4>
+                  <p class="card-text text-muted">欲往新興市場開發卻受限於經費，無法一次啟動完整的數位佈局、SEO 與多語系行銷工作。</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border shadow-sm">
+                <div class="card-body p-5">
+                  <div class="mb-4 pain-icon">
+                    <i class="fa fa-shield"/>
+                  </div>
+                  <h4 class="card-title mb-3">缺乏申請輔導經驗</h4>
+                  <p class="card-text text-muted">政府計畫門檻嚴謹且流程繁雜，企業往往因不熟悉申請與結案細節而遺憾錯失資金機會。</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" data-custom-name="space" data-name="服務流程">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level o_cc o_cc2 pt80 pb80 s_custom_subsidyServices" data-snippet="s_text_block" data-name="服務流程">
+        <div class="container">
+          <div class="s_title text-center pb48" data-snippet="s_title" data-name="footer-contact">
+            <h2>核心輔導補助項目</h2>
+            <div class="s_text mt-3" data-snippet="s_text" data-name="more">
+              <p class="text-muted h5">憑藉久大行銷豐富輔導實績，協助企業高效獲取成長資源</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border-0 shadow">
+                <div class="card-body p-5">
+                  <span class="badge bg-primary text-white mb-3 px-3 py-2 service-badge">MARKET EXPANSION</span>
+                  <h4 class="card-title mb-4">國際市場開發計畫</h4>
+                  <p class="card-text text-muted mb-4">整合海外數位曝光與實體展覽，全方位輔導企業申請開發補助，分散營運風險。</p>
+                  <ul class="list-unstyled mb-4">
+                    <li class="mb-2"><i class="fa fa-check-circle mr-2"/> 多語系跨境官網與 SEO 補助</li>
+                    <li class="mb-2"><i class="fa fa-check-circle mr-2"/> 國際展覽攤位與視覺計畫建議</li>
+                    <li class="mb-2"><i class="fa fa-check-circle mr-2"/> 海外商務媒合對接協助</li>
+                  </ul>
+                  <a href="#contact2" class="btn btn-outline-primary btn-block rounded-circle" data-original-title="" title="" data-require-form="false">立即諮詢補助計畫</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border-0 shadow">
+                <div class="card-body p-5">
+                  <span class="badge bg-primary text-white mb-3 px-3 py-2 service-badge">DIGITAL TRANSFORMATION</span>
+                  <h4 class="card-title mb-4">數位轉型補助計畫</h4>
+                  <p class="card-text text-muted mb-4">針對企業內部流程數位化與自動化提供輔導，協助對接補助專案，提升作業效率。</p>
+                  <ul class="list-unstyled mb-4">
+                    <li class="mb-2"><i class="fa fa-check-circle mr-2"/> 管理系統(ERP/CRM)數位補助</li>
+                    <li class="mb-2"><i class="fa fa-check-circle mr-2"/> 自動化與智慧化流程規劃建議</li>
+                    <li class="mb-2"><i class="fa fa-check-circle mr-2"/> 資訊安全與數位技術升級諮詢</li>
+                  </ul>
+                  <a href="#contact2" class="btn btn-outline-primary btn-block rounded-circle" data-original-title="" title="" data-require-form="false">立即諮詢補助計畫</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border-0 shadow">
+                <div class="card-body p-5">
+                  <span class="badge bg-primary text-white mb-3 px-3 py-2 service-badge">SUCCESSION PLAN</span>
+                  <h4 class="card-title mb-4">企業傳承計畫</h4>
+                  <p class="card-text text-muted mb-4">協助規劃二代接班與品牌延續，透過資源輔導解決接班過程中的品牌重新定義痛點。</p>
+                  <ul class="list-unstyled mb-4">
+                    <li class="mb-2"><i class="fa fa-check-circle mr-2"/> 傳承接班品牌策略規劃</li>
+                    <li class="mb-2"><i class="fa fa-check-circle mr-2"/> 企業品牌識別重新定位 (Rebranding)</li>
+                    <li class="mb-2"><i class="fa fa-check-circle mr-2"/> 二代經營與管理制度諮詢</li>
+                  </ul>
+                  <a href="#contact2" class="btn btn-outline-primary btn-block rounded-circle" data-original-title="" title="" data-require-form="false">立即諮詢補助計畫</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" data-custom-name="space" data-name="服務流程">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt80 pb80 s_custom_subsidyCases" data-snippet="s_text_block" data-name="服務流程">
+        <div class="container">
+          <div class="row align-items-end mb-5">
+            <div class="col-lg-8">
+              <h2 class="mb-3">實績見證：成功案例</h2>
+              <p class="text-muted h5">久大行銷具備多年實戰輔導經驗，協助企業精準獲取應有的發展動能</p>
+            </div>
+            <div class="col-lg-4 text-right">
+              <div class="case-stats">50+</div>
+              <div class="case-stats-label">累積輔導成功案例</div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border-0 shadow case-card">
+                <div class="card-header p-3 d-flex justify-content-between align-items-center">
+                  CENTER CASE STUDY
+                  <i class="fa fa-award text-primary"/>
+                </div>
+                <div class="card-body p-4">
+                  <div class="mb-3">
+                    <small class="text-muted case-label">01 / 產業類別</small>
+                    <h5 class="mb-0 mt-1 case-industry">大型加工中心機</h5>
+                  </div>
+                  <div class="mb-3 pl-3 case-plan-wrap">
+                    <small class="text-primary case-label">02 / 通過的計畫</small>
+                    <p class="mb-0 mt-1 case-plan">數位轉型補助計畫</p>
+                  </div>
+                  <div>
+                    <small class="text-muted case-label">03 / 執行項目</small>
+                    <ul class="list-unstyled mt-2 case-results">
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>海外品牌形象全面升級工程</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>全球數位行銷推廣策略規劃</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>國際線上展廳與數位化溝通工具導入</small>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border-0 shadow case-card">
+                <div class="card-header p-3 d-flex justify-content-between align-items-center">
+                  MANUFACTURING CASE STUDY
+                  <i class="fa fa-award text-primary"/>
+                </div>
+                <div class="card-body p-4">
+                  <div class="mb-3">
+                    <small class="text-muted case-label">01 / 產業類別</small>
+                    <h5 class="mb-0 mt-1 case-industry">精密製造</h5>
+                  </div>
+                  <div class="mb-3 pl-3 case-plan-wrap">
+                    <small class="text-primary case-label">02 / 通過的計畫</small>
+                    <p class="mb-0 mt-1 case-plan">國際市場開發計畫</p>
+                  </div>
+                  <div>
+                    <small class="text-muted case-label">03 / 執行項目</small>
+                    <ul class="list-unstyled mt-2 case-results">
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>美國市場數位行銷曝光佈局</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>歐洲市場跨境開發戰略分析</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>目標買家精準接觸與轉型建議</small>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border-0 shadow case-card">
+                <div class="card-header p-3 d-flex justify-content-between align-items-center">
+                  COMPONENTS CASE STUDY
+                  <i class="fa fa-award text-primary"/>
+                </div>
+                <div class="card-body p-4">
+                  <div class="mb-3">
+                    <small class="text-muted case-label">01 / 產業類別</small>
+                    <h5 class="mb-0 mt-1 case-industry">精密零件</h5>
+                  </div>
+                  <div class="mb-3 pl-3 case-plan-wrap">
+                    <small class="text-primary case-label">02 / 通過的計畫</small>
+                    <p class="mb-0 mt-1 case-plan">國際市場開發計畫</p>
+                  </div>
+                  <div>
+                    <small class="text-muted case-label">03 / 執行項目</small>
+                    <ul class="list-unstyled mt-2 case-results">
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>義大利市場整合行銷策略規劃</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>海外實體服務據點建置輔導</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>在地化服務流程數位化對接</small>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border-0 shadow case-card">
+                <div class="card-header p-3 d-flex justify-content-between align-items-center">
+                  FURNITURE CASE STUDY
+                  <i class="fa fa-award text-primary"/>
+                </div>
+                <div class="card-body p-4">
+                  <div class="mb-3">
+                    <small class="text-muted case-label">01 / 產業類別</small>
+                    <h5 class="mb-0 mt-1 case-industry">家具產業</h5>
+                  </div>
+                  <div class="mb-3 pl-3 case-plan-wrap">
+                    <small class="text-primary case-label">02 / 通過的計畫</small>
+                    <p class="mb-0 mt-1 case-plan">國際市場開發計畫</p>
+                  </div>
+                  <div>
+                    <small class="text-muted case-label">03 / 執行項目</small>
+                    <ul class="list-unstyled mt-2 case-results">
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>全新品牌形象官網改版建置</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>全球 SEO 關鍵字排名優化佈局</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>多語系品牌行銷影片製作與投放</small>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border-0 shadow case-card">
+                <div class="card-header p-3 d-flex justify-content-between align-items-center">
+                  EQUIPMENT CASE STUDY
+                  <i class="fa fa-award text-primary"/>
+                </div>
+                <div class="card-body p-4">
+                  <div class="mb-3">
+                    <small class="text-muted case-label">01 / 產業類別</small>
+                    <h5 class="mb-0 mt-1 case-industry">精密加工設備</h5>
+                  </div>
+                  <div class="mb-3 pl-3 case-plan-wrap">
+                    <small class="text-primary case-label">02 / 通過的計畫</small>
+                    <p class="mb-0 mt-1 case-plan">國際市場開發計畫</p>
+                  </div>
+                  <div>
+                    <small class="text-muted case-label">03 / 執行項目</small>
+                    <ul class="list-unstyled mt-2 case-results">
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>中東、印度市場品牌線上曝光強化</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>美國市場實體與數位行銷整合再升級</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>跨區域市場競爭優勢戰略重塑</small>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 o_visible o_animated o_animating">
+              <div class="card h-100 border-0 shadow case-card">
+                <div class="card-header p-3 d-flex justify-content-between align-items-center">
+                  KITCHEN CASE STUDY
+                  <i class="fa fa-award text-primary"/>
+                </div>
+                <div class="card-body p-4">
+                  <div class="mb-3">
+                    <small class="text-muted case-label">01 / 產業類別</small>
+                    <h5 class="mb-0 mt-1 case-industry">廚房設備</h5>
+                  </div>
+                  <div class="mb-3 pl-3 case-plan-wrap">
+                    <small class="text-primary case-label">02 / 通過的計畫</small>
+                    <p class="mb-0 mt-1 case-plan">數位轉型補助計畫</p>
+                  </div>
+                  <div>
+                    <small class="text-muted case-label">03 / 執行項目</small>
+                    <ul class="list-unstyled mt-2 case-results">
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>歐洲市場品牌再造 (Rebranding) 計畫</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>跨國經營據點與經銷網絡佈局諮詢</small>
+                      </li>
+                      <li class="mb-2">
+                        <i class="fa fa-check-circle mr-2"/>
+                        <small>數位化供應鏈與品牌管理系統導入</small>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" data-custom-name="space" data-name="服務流程">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level o_cc o_cc4 pt80 pb80 s_custom_subsidyAdvantage" data-snippet="s_text_block" data-name="服務流程">
+        <div class="container">
+          <div class="text-center mb-5">
+            <h2 class="text-white mb-4">久大行銷：您的<br/><span class="accent-text">補助計畫顧問夥伴</span></h2>
+            <p class="text-white-50 h5 mx-auto" style="max-width: 800px;">成功的補助計畫不應只是文書作業，而是基於企業發展的體系佈局。我們透過精準訪談與診斷，協助企業在轉型過程中極大化政府資源應用。</p>
+          </div>
+          <div class="row align-items-center">
+            <div class="col-lg-6 mb-5 mb-lg-0">
+              <div class="d-flex mb-5">
+                <div class="mr-4 advantage-number">01</div>
+                <div>
+                  <h4 class="text-white mb-3">深度診斷與資源盤點</h4>
+                  <p class="text-white-50">深入訪談分析公司經營現況、資源痛點與開發目標，精準對接企業最需要的政府計畫。</p>
+                </div>
+              </div>
+              <div class="d-flex mb-5">
+                <div class="mr-4 advantage-number">02</div>
+                <div>
+                  <h4 class="text-white mb-3">市場與競品情資分析</h4>
+                  <p class="text-white-50">解析目標市場趨勢與競品策略優劣，協助企業建立數位化轉型與品牌核心競爭力。</p>
+                </div>
+              </div>
+              <div class="d-flex">
+                <div class="mr-4 advantage-number">03</div>
+                <div>
+                  <h4 class="text-white mb-3">中長期成長藍圖規劃</h4>
+                  <p class="text-white-50">規劃未來中長期增長計畫，提供從資源對接、執行輔導到結案核銷的全流程策略服務。</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="card bg-dark border-0 shadow-lg strategy-card">
+                <div class="card-body p-5">
+                  <div class="d-flex justify-content-between align-items-start mb-4">
+                    <i class="fa fa-search strategy-icon"/>
+                    <div class="text-right">
+                      <p class="text-muted mb-1 strategy-label">STRATEGIC AUDIT</p>
+                      <p class="text-white mb-0 strategy-title">戰略診斷</p>
+                    </div>
+                  </div>
+                  <div class="mb-4">
+                    <div class="d-flex align-items-center mb-3">
+                      <div class="strategy-bullet mr-3"/>
+                      <p class="mb-0 text-white">企業資源與傳承深度分析</p>
+                    </div>
+                    <div class="d-flex align-items-center mb-3">
+                      <div class="strategy-bullet mr-3"/>
+                      <p class="mb-0 text-white">全球市場對標與數據解析</p>
+                    </div>
+                    <div class="d-flex align-items-center">
+                      <div class="strategy-bullet mr-3"/>
+                      <p class="mb-0 text-white">中長期增長與結案核銷輔導</p>
+                    </div>
+                  </div>
+                  <div class="pt-4 border-top d-flex justify-content-between align-items-end strategy-footer">
+                    <div class="strategy-text">STRATEGIC</div>
+                    <div class="strategy-arrow-box">
+                      <i class="fa fa-arrow-right"/>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" data-custom-name="space" data-name="服務流程">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt80 pb80 o_cc o_cc2" data-snippet="s_text_block" data-name="服務流程">
+        <div class="container">
+          <div class="text-center mb-5">
+            <h2 class="mb-3">補助申請流程</h2>
+            <p class="text-muted h5">客製化補助輔導流程，協助企業高效啟動成長計畫</p>
+          </div>
+          <div class="row text-center">
+            <div class="col-lg-3 col-md-6 mb-4 process-item">
+              <div class="process-number">01</div>
+              <h5 class="mb-3">深度訪談與分析</h5>
+              <p class="text-muted small px-3">1對1深度訪談，盤點企業現狀、核心資源與開發目標</p>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-4 process-item">
+              <div class="process-number">02</div>
+              <h5 class="mb-3">補助內容規劃</h5>
+              <p class="text-muted small px-3">依據企業成長需求擬定最適補助方案，規劃具體執行路徑與對接策略</p>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-4 process-item">
+              <div class="process-number">03</div>
+              <h5 class="mb-3">輔導件編撰遞交</h5>
+              <p class="text-muted small px-3">專業顧問引導資料準備，編撰具競爭力計畫書並正式遞交審核</p>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-4 process-item">
+              <div class="process-number">04</div>
+              <h5 class="mb-3">結案成果核銷</h5>
+              <p class="text-muted small px-3">協助整理執行成果報告，確保補助款項圓滿完成與順利撥付</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 s_custom_space" data-snippet="s_text_block" data-custom-name="space" data-name="服務流程" style="background-image: none;">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt80 pb80 o_cc o_cc1" data-snippet="s_text_block" id="contact2" data-name="服務流程" data-original-title="" title="" aria-describedby="tooltip716119" data-anchor="true">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 mb-5 mb-lg-0">
+              <h2 class="mb-4 contact-title">開始您的<br/><span class="accent-text">行銷補助計畫</span></h2>
+              <p class="h5 text-muted mb-5 pl-4 contact-quote">現在就聯繫 <strong>GTMC 久大行銷</strong>，讓我們透過深度訪談與數據分析，為您進行 <strong>「企業資源與成長藍圖免費評估」</strong>。</p>
+              <div class="mb-4 contact-info-box">
+                <div class="d-flex align-items-center">
+                  <div class="contact-icon icon-phone">
+                    <i class="fa fa-phone"/>
+                  </div>
+                  <div>
+                    <p class="text-muted mb-1 contact-label">服務專線</p>
+                    <p class="mb-0 contact-phone">04-2296-6999</p>
+                  </div>
+                </div>
+              </div>
+              <div class="mb-4 contact-info-box">
+                <div class="d-flex align-items-center">
+                  <div class="contact-icon icon-email">
+                    <i class="fa fa-envelope"/>
+                  </div>
+                  <div>
+                    <p class="text-muted mb-1 contact-label">電子郵件</p>
+                    <p class="mb-0 contact-email">service@gtmc.com.tw</p>
+                  </div>
+                </div>
+              </div>
+              <div class="mb-4 contact-info-box">
+                <div class="d-flex align-items-center">
+                  <div class="contact-icon icon-location">
+                    <i class="fa fa-map-marker"/>
+                  </div>
+                  <div>
+                    <p class="text-muted mb-1 contact-label">營運總部</p>
+                    <p class="mb-0 contact-address">台中市西屯區文心路三段241號17樓</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="card border-0 shadow-lg contact-form-card">
+                <div class="card-body p-5">
+                  <form action="/website_form/" method="post" class="s_website_form" data-model_name="crm.lead" data-success-mode="redirect" data-success-page="/contactus-thank-you" data-name="Form">
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="form-group">
+                          <label class="form-label">姓名 *</label>
+                          <input type="text" class="form-control" name="contact_name" required="required" placeholder="您的姓名"/>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-group">
+                          <label class="form-label">公司名稱 *</label>
+                          <input type="text" class="form-control" name="company_name" required="required" placeholder="公司全名"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="form-group">
+                          <label class="form-label">電子郵件 *</label>
+                          <input type="email" class="form-control" name="email_from" required="required" placeholder="email@company.com"/>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-group">
+                          <label class="form-label">產業別 *</label>
+                          <select class="form-control" name="industry">
+                            <option>精密機械 / 自動化設備</option>
+                            <option>精密手工具 / 五金</option>
+                            <option>家具產業</option>
+                            <option>精密零件 / 零組件</option>
+                            <option>精密製造 / 加工</option>
+                            <option>廚房設備 / 餐飲設備</option>
+                            <option>其他產業</option>
+                          </select>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="form-group">
+                      <label class="form-label">感興趣的補助類別</label>
+                      <select class="form-control" name="subsidy_interest">
+                        <option>國際市場開發計畫</option>
+                        <option>數位轉型補助計畫</option>
+                        <option>企業傳承計畫</option>
+                        <option>全方位政府資源適配評估</option>
+                      </select>
+                    </div>
+                    <div class="form-group">
+                      <label class="form-label">需求描述</label>
+                      <textarea class="form-control" name="description" rows="4" placeholder="請簡述您的外銷目標、資源現況 or 轉型挑戰..."/>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block rounded-circle py-3">立即諮詢補助計畫</button>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section aria-describedby="tooltip949220" class="s_title o_colored_level pb88 pt80 footer-contact o_cc o_cc2" data-original-title="" data-snippet="s_title" data-vcss="001" title="" data-name="footer上方聯絡我們區塊">
+        <div aria-describedby="tooltip836135" class="s_allow_columns container" data-original-title="" title="">
+          <h3 style="text-align: center;">
+            <span style="font-weight: normal;" class="o_default_snippet_text">讓我們協助你尋找最適合你公司產業的最佳解決方案</span>
+          </h3>
+          <div class="s_text mt-3" data-name="Text" data-snippet="s_text">
+            <p style="text-align: center;" data-original-title="" title="" aria-describedby="tooltip427574">
+              <a class="btn btn-primary rounded-circle o_default_snippet_text" data-original-title="" href="/contactus" title="">聯絡我們</a>
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>

@@ -1,0 +1,61 @@
+<t t-name="website.test-5">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_table_of_content pt24 pb24 o_cc o_cc1 o_colored_level" data-snippet="s_table_of_content" data-name="Table of Content" style="background-image: none;">
+        <div class="container">
+          <div class="row s_nb_column_fixed">
+            <div class="s_table_of_content_navbar_wrap s_table_of_content_navbar_sticky d-print-none d-none d-lg-block o_not_editable o_cc o_cc1 o_colored_level s_table_of_content_horizontal_navbar col-lg-12" data-name="Navbar">
+              <div class="s_table_of_content_navbar list-group o_no_link_popover list-group-horizontal-md">
+                <a href="#table_of_content_heading_1769561881217_508" class="table_of_content_link list-group-item list-group-item-action py-2 border-0 rounded-0 active">標題1需使用h2</a>
+                <a href="#table_of_content_heading_1769561881217_509" class="table_of_content_link list-group-item list-group-item-action py-2 border-0 rounded-0">標題2需使用h2</a>
+              </div>
+            </div>
+            <div class="s_table_of_content_main oe_structure oe_empty o_colored_level col-lg-12" data-name="Content">
+              <section class="s_text_block pb40 o_colored_level pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+                <div class="s_allow_columns container">
+                  <h2 id="table_of_content_heading_1769561881217_508" data-anchor="true">標題1需使用h2</h2>
+                </div>
+              </section>
+              <section class="s_column_layout o_auto_screen_height o_colored_level" data-sticky="none" data-snippet="s_column_layout" data-name="Horizontal Layout" style="background-image: none;">
+                <div class="col-wrapper container">
+                  <div class="row d-flex align-items-stretch">
+                    <div class="col-lg-4 s_col_no_bgcolor col-left">
+                      <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty">
+                        <section class="s_title pt40 pb40 o_colored_level" data-vcss="001" data-snippet="s_title" style="background-image: none;">
+                          <div class="container s_allow_columns">
+                            <p class="o_default_snippet_text h2" id="table_of_content_heading_1769561871024_492" data-anchor="true">Your Site Title</p>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                    <div class="col-lg-8 col-right o_colored_level">
+                      <div class="s_column_layout_content oe_structure oe_structure_not_nest oe_empty">
+                        <section class="s_text_block pt40 pb40 o_colored_level" data-snippet="s_text_block" style="background-image: none;">
+                          <div class="container s_allow_columns">
+                            <p class="o_default_snippet_text">Great stories have a <b class="o_default_snippet_text">personality</b>. Consider telling a great story that provides personality. Writing a story with personality for potential clients will assist with making a relationship connection. This shows up in small quirks like word choices or phrases. Write from your point of view, not from someone else's experience.</p>
+                            <p class="o_default_snippet_text">Great stories are <b class="o_default_snippet_text">for everyone</b> even when only written <b class="o_default_snippet_text">for just one person</b>. If you try to write with a wide, general audience in mind, your story will sound fake and lack emotion. No one will be interested. Write for one person. If it’s genuine for the one, it’s genuine for the rest.</p>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              <section class="s_text_block pb40 o_colored_level pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+                <div class="container s_allow_columns">
+                  <p class="o_default_snippet_text">Great stories have a <b class="o_default_snippet_text">personality</b>. Consider telling a great story that provides personality. Writing a story with personality for potential clients will assist with making a relationship connection. This shows up in small quirks like word choices or phrases. Write from your point of view, not from someone else's experience.</p>
+                  <p class="o_default_snippet_text">Great stories are <b class="o_default_snippet_text">for everyone</b> even when only written <b class="o_default_snippet_text">for just one person</b>. If you try to write with a wide, general audience in mind, your story will sound fake and lack emotion. No one will be interested. Write for one person. If it’s genuine for the one, it’s genuine for the rest.</p>
+                </div>
+              </section>
+              <section class="s_text_block pb40 o_colored_level pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+                <div class="s_allow_columns container">
+                  <h2 id="table_of_content_heading_1769561881217_509" data-anchor="true">標題2需使用h2</h2>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>

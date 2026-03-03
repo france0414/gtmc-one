@@ -1,0 +1,477 @@
+// ============================================
+// 補助計畫頁面專屬樣式
+// Subsidy Program Page Custom Styles
+// ============================================
+
+// 補助計畫 Banner
+.s_custom_subsidyBanner {
+    .badge {
+        font-size: 0.6875rem; // 11px
+        font-weight: bold;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+
+    .border-accent {
+        border-left: 4px solid $primary;
+        padding-left: 24px;
+    }
+}
+
+// 痛點區塊
+.s_custom_painPoints {
+    .pain-icon {
+        width: 40px;
+        height: 40px;
+        background-color: $primary;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 4px;
+
+        i {
+            font-size: 20px;
+        }
+    }
+
+    .card {
+        border-color: #e0e0e0 !important;
+        transition: all 0.3s ease;
+
+        &:hover {
+            border-color: $primary !important;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            transform: translateY(-2px);
+        }
+    }
+
+    .card-title {
+        @include h4;
+        margin-bottom: 1rem;
+    }
+
+    .card-text {
+        line-height: 1.8;
+    }
+}
+
+// 服務項目區塊
+.s_custom_subsidyServices {
+    .service-badge {
+        font-size: 0.625rem; // 10px
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+
+    .card {
+        transition: all 0.3s ease;
+
+        &:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+        }
+    }
+
+    .card-title {
+        @include h4;
+        margin-bottom: 1rem;
+    }
+
+    .card-text {
+        line-height: 1.8;
+    }
+
+    .list-unstyled li {
+        line-height: 1.8;
+
+        i.fa-check-circle {
+            color: $primary;
+        }
+    }
+}
+
+// 成功案例區塊
+.s_custom_subsidyCases {
+    .case-stats {
+        @include h1;
+        font-weight: 900;
+        color: $primary;
+        line-height: 1;
+    }
+
+    .case-stats-label {
+        font-size: 0.6875rem; // 11px
+        font-weight: bold;
+        letter-spacing: 2px;
+        color: var(--o-color-4);
+        text-transform: uppercase;
+    }
+
+    .case-card {
+        transition: all 0.3s ease;
+
+        &:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-header {
+            background-color: $primary;
+            color: white;
+            padding: 1rem;
+
+            span {
+                font-size: 0.75rem; // 12px
+                font-weight: bold;
+                letter-spacing: 1px;
+            }
+
+            i.text-primary {
+                color: white !important;
+            }
+        }
+
+        .case-label {
+            font-size: 0.6875rem; // 11px
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .case-industry {
+            @include h5;
+            font-weight: 900;
+        }
+
+        .case-plan-wrap {
+            border-left: 3px solid $secondary;
+            padding-left: 1rem;
+        }
+
+        .case-plan {
+            font-weight: bold;
+        }
+
+        .case-results {
+            li {
+                small {
+                    font-size: 0.875rem; // 14px
+                }
+
+                i.fa-check-circle {
+                    color: $primary;
+                }
+            }
+        }
+    }
+}
+
+// 顧問優勢區塊
+.s_custom_subsidyAdvantage {
+    background-color: $primary !important;
+    color: white;
+
+    h2 {
+        @include h2;
+    }
+
+    .accent-text {
+        color: white;
+        position: relative;
+        display: inline-block;
+
+        &::after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background-color: $secondary;
+        }
+    }
+
+    .advantage-number {
+        width: 48px;
+        height: 48px;
+        border: 2px solid rgba(255, 255, 255, 0.3);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        font-weight: 900;
+        color: white;
+        flex-shrink: 0;
+        border-radius: 4px;
+        transition: all 0.3s ease;
+
+        &:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+            border-color: white;
+        }
+    }
+
+    h4 {
+        @include h4;
+    }
+
+    .strategy-card {
+        border: 1px solid rgba(255, 255, 255, 0.1) !important;
+        background-color: rgba(0, 0, 0, 0.2);
+
+        .strategy-icon {
+            font-size: 3rem;
+            color: white;
+            opacity: 0.6;
+        }
+
+        .strategy-label {
+            font-size: 0.6875rem; // 11px
+            font-weight: bold;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .strategy-title {
+            @include h5;
+            font-weight: 900;
+        }
+
+        .strategy-bullet {
+            width: 6px;
+            height: 6px;
+            background-color: white;
+            border-radius: 50%;
+        }
+
+        .strategy-footer {
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+
+            .strategy-text {
+                @include h2;
+                color: white;
+                font-style: italic;
+                letter-spacing: -2px;
+                opacity: 0.3;
+            }
+
+            .strategy-arrow-box {
+                width: 40px;
+                height: 40px;
+                background-color: rgba(255, 255, 255, 0.05);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 4px;
+
+                i {
+                    color: white;
+                    font-size: 1.25rem;
+                }
+            }
+        }
+    }
+}
+
+// 流程區塊
+.s_custom_subsidyProcess {
+    h2 {
+        @include h2;
+    }
+
+    h5 {
+        @include h5;
+    }
+
+    .process-number {
+        width: 72px;
+        height: 72px;
+        border: 2px solid #e0e0e0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 1.5rem;
+        font-size: 2rem;
+        font-weight: 900;
+        background-color: white;
+        transition: all 0.3s ease;
+        border-radius: 50%;
+    }
+
+    .process-item {
+        &:hover .process-number {
+            border-color: $primary;
+            background-color: $primary;
+            color: white;
+        }
+
+        h5 {
+            font-weight: 900;
+            transition: color 0.3s ease;
+        }
+
+        &:hover h5 {
+            color: $primary;
+        }
+
+        p {
+            line-height: 1.8;
+        }
+    }
+}
+
+// 聯絡表單區塊
+.s_custom_subsidyContact {
+    h2 {
+        @include h2;
+    }
+
+    .contact-title {
+        .accent-text {
+            color: $primary;
+        }
+    }
+
+    .contact-quote {
+        border-left: 4px solid $primary;
+        line-height: 1.8;
+    }
+
+    .contact-info-box {
+        .contact-icon {
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 1.5rem;
+            border-radius: 4px;
+
+            i {
+                font-size: 1.5rem;
+            }
+
+            &.icon-phone {
+                background-color: $primary;
+                color: white;
+            }
+
+            &.icon-email {
+                background-color: $secondary;
+                color: white;
+            }
+
+            &.icon-location {
+                background-color: $primary;
+                color: white;
+            }
+        }
+
+        .contact-label {
+            font-size: 0.6875rem; // 11px
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .contact-phone {
+            @include h3;
+            font-weight: 900;
+        }
+
+        .contact-email {
+            @include h5;
+            font-weight: 900;
+        }
+
+        .contact-address {
+            @include h6;
+            font-weight: bold;
+        }
+    }
+
+    .contact-form-card {
+        border-top: 4px solid $primary !important;
+
+        .form-label {
+            font-size: 0.6875rem; // 11px
+            font-weight: 900;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .form-control {
+            background-color: #f8f8f8;
+            border: none;
+            border-bottom: 2px solid #e0e0e0;
+            transition: all 0.3s ease;
+
+            &:focus {
+                background-color: white;
+                border-bottom-color: $primary;
+                box-shadow: none;
+            }
+        }
+    }
+}
+
+// 分隔線樣式
+.s_custom_subsidyDivider {
+    width: 60px;
+    height: 4px;
+    background-color: $secondary;
+    margin: 0 auto;
+}
+
+// 響應式調整
+@include media-breakpoint-down(md) {
+    .s_custom_subsidyAdvantage {
+        .advantage-number {
+            width: 40px;
+            height: 40px;
+            font-size: 1.25rem;
+        }
+
+        .strategy-card {
+            .strategy-icon {
+                font-size: 2.5rem;
+            }
+        }
+    }
+
+    .s_custom_subsidyContact {
+        .contact-info-box {
+            .contact-icon {
+                width: 40px;
+                height: 40px;
+
+                i {
+                    font-size: 1.25rem;
+                }
+            }
+        }
+    }
+}
+
+@include media-breakpoint-down(sm) {
+    .s_custom_subsidyProcess {
+        .process-number {
+            width: 60px;
+            height: 60px;
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+    }
+
+    .s_custom_painPoints {
+        .pain-icon {
+            width: 32px;
+            height: 32px;
+
+            i {
+                font-size: 16px;
+            }
+        }
+    }
+}
